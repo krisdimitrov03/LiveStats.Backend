@@ -1,0 +1,982 @@
+﻿[
+  {
+    "name": "Arsenal",
+    "nationalityId": 8,
+    "stadiumId": 1
+  },
+  {
+    "name": "Aston Villa",
+    "nationalityId": 8,
+    "stadiumId": 2
+  },
+  {
+    "name": "Brentford",
+    "nationalityId": 8,
+    "stadiumId": 3
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "nationalityId": 8,
+    "stadiumId": 4
+  },
+  {
+    "name": "Burnley",
+    "nationalityId": 8,
+    "stadiumId": 5
+  },
+  {
+    "name": "Chelsea",
+    "nationalityId": 8,
+    "stadiumId": 6
+  },
+  {
+    "name": "Crystal Palace",
+    "nationalityId": 8,
+    "stadiumId": 7
+  },
+  {
+    "name": "Everton",
+    "nationalityId": 8,
+    "stadiumId": 8
+  },
+  {
+    "name": "Leeds United",
+    "nationalityId": 8,
+    "stadiumId": 9
+  },
+  {
+    "name": "Leicester City",
+    "nationalityId": 8,
+    "stadiumId": 10
+  },
+  {
+    "name": "Liverpool",
+    "nationalityId": 8,
+    "stadiumId": 11
+  },
+  {
+    "name": "Manchester City",
+    "nationalityId": 8,
+    "stadiumId": 12
+  },
+  {
+    "name": "Manchester United",
+    "nationalityId": 8,
+    "stadiumId": 13
+  },
+  {
+    "name": "Newcastle United",
+    "nationalityId": 8,
+    "stadiumId": 14
+  },
+  {
+    "name": "Norwich City",
+    "nationalityId": 8,
+    "stadiumId": 15
+  },
+  {
+    "name": "Southampton",
+    "nationalityId": 8,
+    "stadiumId": 16
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "nationalityId": 8,
+    "stadiumId": 17
+  },
+  {
+    "name": "Watford",
+    "nationalityId": 8,
+    "stadiumId": 18
+  },
+  {
+    "name": "West Ham United",
+    "nationalityId": 8,
+    "stadiumId": 19
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "nationalityId": 8,
+    "stadiumId": 20
+  },
+  {
+    "name": "Birmingham City",
+    "nationalityId": 8,
+    "stadiumId": 21
+  },
+  {
+    "name": "Blackburn Rovers",
+    "nationalityId": 8,
+    "stadiumId": 22
+  },
+  {
+    "name": "Bristol City",
+    "nationalityId": 8,
+    "stadiumId": 23
+  },
+  {
+    "name": "Cardiff City",
+    "nationalityId": 8,
+    "stadiumId": 24
+  },
+  {
+    "name": "Coventry City",
+    "nationalityId": 8,
+    "stadiumId": 25
+  },
+  {
+    "name": "Huddersfield Town",
+    "nationalityId": 8,
+    "stadiumId": 26
+  },
+  {
+    "name": "Hull City",
+    "nationalityId": 8,
+    "stadiumId": 27
+  },
+  {
+    "name": "Ipswich Town",
+    "nationalityId": 8,
+    "stadiumId": 28
+  },
+  {
+    "name": "Leeds United",
+    "nationalityId": 8,
+    "stadiumId": 29
+  },
+  {
+    "name": "Leicester City",
+    "nationalityId": 8,
+    "stadiumId": 30
+  },
+  {
+    "name": "Middlesbrough",
+    "nationalityId": 8,
+    "stadiumId": 31
+  },
+  {
+    "name": "Millwall",
+    "nationalityId": 8,
+    "stadiumId": 32
+  },
+  {
+    "name": "Norwich City",
+    "nationalityId": 8,
+    "stadiumId": 33
+  },
+  {
+    "name": "Plymouth Argyle",
+    "nationalityId": 8,
+    "stadiumId": 34
+  },
+  {
+    "name": "Preston North End",
+    "nationalityId": 8,
+    "stadiumId": 35
+  },
+  {
+    "name": "Queens Park Rangers (QPR)",
+    "nationalityId": 8,
+    "stadiumId": 36
+  },
+  {
+    "name": "Rotherham United",
+    "nationalityId": 8,
+    "stadiumId": 37
+  },
+  {
+    "name": "Sheffield Wednesday",
+    "nationalityId": 8,
+    "stadiumId": 38
+  },
+  {
+    "name": "Southampton",
+    "nationalityId": 8,
+    "stadiumId": 39
+  },
+  {
+    "name": "Stoke City",
+    "nationalityId": 8,
+    "stadiumId": 40
+  },
+  {
+    "name": "AS Monaco",
+    "nationalityId": 9,
+    "stadiumId": 41
+  },
+  {
+    "name": "Stade Brestois 29",
+    "nationalityId": 9,
+    "stadiumId": 42
+  },
+  {
+    "name": "Olympique de Marseille",
+    "nationalityId": 9,
+    "stadiumId": 43
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "nationalityId": 9,
+    "stadiumId": 44
+  },
+  {
+    "name": "Lille OSC",
+    "nationalityId": 9,
+    "stadiumId": 45
+  },
+  {
+    "name": "FC Metz",
+    "nationalityId": 9,
+    "stadiumId": 46
+  },
+  {
+    "name": "Stade Rennais FC",
+    "nationalityId": 9,
+    "stadiumId": 47
+  },
+  {
+    "name": "Stade de Reims",
+    "nationalityId": 9,
+    "stadiumId": 48
+  },
+  {
+    "name": "RC Strasbourg Alsace",
+    "nationalityId": 9,
+    "stadiumId": 49
+  },
+  {
+    "name": "Le Havre AC",
+    "nationalityId": 9,
+    "stadiumId": 50
+  },
+  {
+    "name": "FC Lorient",
+    "nationalityId": 9,
+    "stadiumId": 51
+  },
+  {
+    "name": "Toulouse FC",
+    "nationalityId": 9,
+    "stadiumId": 52
+  },
+  {
+    "name": "Montpellier HSC",
+    "nationalityId": 9,
+    "stadiumId": 53
+  },
+  {
+    "name": "FC Nantes",
+    "nationalityId": 9,
+    "stadiumId": 54
+  },
+  {
+    "name": "Olympique Lyonnais",
+    "nationalityId": 9,
+    "stadiumId": 55
+  },
+  {
+    "name": "Clermont Foot 63",
+    "nationalityId": 9,
+    "stadiumId": 56
+  },
+  {
+    "name": "AC Ajaccio",
+    "nationalityId": 9,
+    "stadiumId": 57
+  },
+  {
+    "name": "Amiens SC",
+    "nationalityId": 9,
+    "stadiumId": 58
+  },
+  {
+    "name": "Annecy FC",
+    "nationalityId": 9,
+    "stadiumId": 59
+  },
+  {
+    "name": "Angers SCO",
+    "nationalityId": 9,
+    "stadiumId": 60
+  },
+  {
+    "name": "AJ Auxerre",
+    "nationalityId": 9,
+    "stadiumId": 61
+  },
+  {
+    "name": "SC Bastia",
+    "nationalityId": 9,
+    "stadiumId": 62
+  },
+  {
+    "name": "FC Girondins de Bordeaux",
+    "nationalityId": 9,
+    "stadiumId": 63
+  },
+  {
+    "name": "SM Caen",
+    "nationalityId": 9,
+    "stadiumId": 64
+  },
+  {
+    "name": "US Concarneau",
+    "nationalityId": 9,
+    "stadiumId": 65
+  },
+  {
+    "name": "USL Dunkerque",
+    "nationalityId": 9,
+    "stadiumId": 66
+  },
+  {
+    "name": "Grenoble Foot 38",
+    "nationalityId": 9,
+    "stadiumId": 67
+  },
+  {
+    "name": "EA Guingamp",
+    "nationalityId": 9,
+    "stadiumId": 68
+  },
+  {
+    "name": "Stade Lavallois MFC",
+    "nationalityId": 9,
+    "stadiumId": 69
+  },
+  {
+    "name": "Paris FC",
+    "nationalityId": 9,
+    "stadiumId": 70
+  },
+  {
+    "name": "Pau FC",
+    "nationalityId": 9,
+    "stadiumId": 71
+  },
+  {
+    "name": "Quevilly-Rouen Métropole FC",
+    "nationalityId": 9,
+    "stadiumId": 72
+  },
+  {
+    "name": "Rodez AF",
+    "nationalityId": 9,
+    "stadiumId": 73
+  },
+  {
+    "name": "AS Saint-Étienne",
+    "nationalityId": 9,
+    "stadiumId": 74
+  },
+  {
+    "name": "ES Troyes AC",
+    "nationalityId": 9,
+    "stadiumId": 75
+  },
+  {
+    "name": "Valenciennes FC",
+    "nationalityId": 9,
+    "stadiumId": 76
+  },
+  {
+    "name": "FC Köln",
+    "nationalityId": 10,
+    "stadiumId": 77
+  },
+  {
+    "name": "FC Union Berlin",
+    "nationalityId": 10,
+    "stadiumId": 78
+  },
+  {
+    "name": "FSV Mainz 05",
+    "nationalityId": 10,
+    "stadiumId": 79
+  },
+  {
+    "name": "Arminia Bielefeld",
+    "nationalityId": 10,
+    "stadiumId": 80
+  },
+  {
+    "name": "Bayer 04 Leverkusen",
+    "nationalityId": 10,
+    "stadiumId": 81
+  },
+  {
+    "name": "Borussia Dortmund",
+    "nationalityId": 10,
+    "stadiumId": 82
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "nationalityId": 10,
+    "stadiumId": 83
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "nationalityId": 10,
+    "stadiumId": 84
+  },
+  {
+    "name": "FC Augsburg",
+    "nationalityId": 10,
+    "stadiumId": 85
+  },
+  {
+    "name": "FC Bayern München",
+    "nationalityId": 10,
+    "stadiumId": 86
+  },
+  {
+    "name": "FC Schalke 04",
+    "nationalityId": 10,
+    "stadiumId": 87
+  },
+  {
+    "name": "Hertha BSC Berlin",
+    "nationalityId": 10,
+    "stadiumId": 88
+  },
+  {
+    "name": "RB Leipzig",
+    "nationalityId": 10,
+    "stadiumId": 89
+  },
+  {
+    "name": "SC Freiburg",
+    "nationalityId": 10,
+    "stadiumId": 90
+  },
+  {
+    "name": "SpVgg Greuther Fürth",
+    "nationalityId": 10,
+    "stadiumId": 91
+  },
+  {
+    "name": "SV Werder Bremen",
+    "nationalityId": 10,
+    "stadiumId": 92
+  },
+  {
+    "name": "TSG 1899 Hoffenheim",
+    "nationalityId": 10,
+    "stadiumId": 93
+  },
+  {
+    "name": "VfB Stuttgart",
+    "nationalityId": 10,
+    "stadiumId": 94
+  },
+  {
+    "name": "VfL Bochum 1848",
+    "nationalityId": 10,
+    "stadiumId": 95
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "nationalityId": 10,
+    "stadiumId": 96
+  },
+  {
+    "name": "FC Heidenheim 1846",
+    "nationalityId": 10,
+    "stadiumId": 97
+  },
+  {
+    "name": "FC Kaiserslautern",
+    "nationalityId": 10,
+    "stadiumId": 98
+  },
+  {
+    "name": "FC Magdeburg",
+    "nationalityId": 10,
+    "stadiumId": 99
+  },
+  {
+    "name": "FC Nürnberg",
+    "nationalityId": 10,
+    "stadiumId": 100
+  },
+  {
+    "name": "Darmstadt 98",
+    "nationalityId": 10,
+    "stadiumId": 101
+  },
+  {
+    "name": "FC Hansa Rostock",
+    "nationalityId": 10,
+    "stadiumId": 102
+  },
+  {
+    "name": "FC Ingolstadt 04",
+    "nationalityId": 10,
+    "stadiumId": 103
+  },
+  {
+    "name": "FC Schalke 04",
+    "nationalityId": 10,
+    "stadiumId": 104
+  },
+  {
+    "name": "Fortuna Düsseldorf",
+    "nationalityId": 10,
+    "stadiumId": 105
+  },
+  {
+    "name": "Greuther Fürth",
+    "nationalityId": 10,
+    "stadiumId": 106
+  },
+  {
+    "name": "Hamburger SV",
+    "nationalityId": 10,
+    "stadiumId": 107
+  },
+  {
+    "name": "Hannover 96",
+    "nationalityId": 10,
+    "stadiumId": 108
+  },
+  {
+    "name": "Holstein Kiel",
+    "nationalityId": 10,
+    "stadiumId": 109
+  },
+  {
+    "name": "Karlsruher SC",
+    "nationalityId": 10,
+    "stadiumId": 110
+  },
+  {
+    "name": "SC Paderborn 07",
+    "nationalityId": 10,
+    "stadiumId": 111
+  },
+  {
+    "name": "SV Darmstadt 98",
+    "nationalityId": 10,
+    "stadiumId": 112
+  },
+  {
+    "name": "SV Sandhausen",
+    "nationalityId": 10,
+    "stadiumId": 113
+  },
+  {
+    "name": "VfL Bochum 1848",
+    "nationalityId": 10,
+    "stadiumId": 114
+  },
+  {
+    "name": "VfL Osnabrück",
+    "nationalityId": 10,
+    "stadiumId": 115
+  },
+  {
+    "name": "Wehen Wiesbaden",
+    "nationalityId": 10,
+    "stadiumId": 116
+  },
+  {
+    "name": "Atalanta",
+    "nationalityId": 11,
+    "stadiumId": 117
+  },
+  {
+    "name": "Bologna",
+    "nationalityId": 11,
+    "stadiumId": 118
+  },
+  {
+    "name": "Cagliari",
+    "nationalityId": 11,
+    "stadiumId": 119
+  },
+  {
+    "name": "Empoli",
+    "nationalityId": 11,
+    "stadiumId": 120
+  },
+  {
+    "name": "Fiorentina",
+    "nationalityId": 11,
+    "stadiumId": 121
+  },
+  {
+    "name": "Frosinone",
+    "nationalityId": 11,
+    "stadiumId": 122
+  },
+  {
+    "name": "Genoa",
+    "nationalityId": 11,
+    "stadiumId": 123
+  },
+  {
+    "name": "Hellas Verona",
+    "nationalityId": 11,
+    "stadiumId": 124
+  },
+  {
+    "name": "Inter Milan",
+    "nationalityId": 11,
+    "stadiumId": 125
+  },
+  {
+    "name": "Juventus",
+    "nationalityId": 11,
+    "stadiumId": 126
+  },
+  {
+    "name": "Lazio",
+    "nationalityId": 11,
+    "stadiumId": 127
+  },
+  {
+    "name": "Lecce",
+    "nationalityId": 11,
+    "stadiumId": 128
+  },
+  {
+    "name": "AC Milan",
+    "nationalityId": 11,
+    "stadiumId": 125
+  },
+  {
+    "name": "Monza",
+    "nationalityId": 11,
+    "stadiumId": 129
+  },
+  {
+    "name": "Napoli",
+    "nationalityId": 11,
+    "stadiumId": 130
+  },
+  {
+    "name": "Roma",
+    "nationalityId": 11,
+    "stadiumId": 131
+  },
+  {
+    "name": "Salernitana",
+    "nationalityId": 11,
+    "stadiumId": 132
+  },
+  {
+    "name": "Sassuolo",
+    "nationalityId": 11,
+    "stadiumId": 133
+  },
+  {
+    "name": "Torino",
+    "nationalityId": 11,
+    "stadiumId": 134
+  },
+  {
+    "name": "Udinese",
+    "nationalityId": 11,
+    "stadiumId": 135
+  },
+  {
+    "name": "Ascoli",
+    "nationalityId": 11,
+    "stadiumId": 136
+  },
+  {
+    "name": "Brescia",
+    "nationalityId": 11,
+    "stadiumId": 137
+  },
+  {
+    "name": "Cesena",
+    "nationalityId": 11,
+    "stadiumId": 138
+  },
+  {
+    "name": "Chievo Verona",
+    "nationalityId": 11,
+    "stadiumId": 139
+  },
+  {
+    "name": "Cittadella",
+    "nationalityId": 11,
+    "stadiumId": 140
+  },
+  {
+    "name": "Cosenza",
+    "nationalityId": 11,
+    "stadiumId": 141
+  },
+  {
+    "name": "Cremonese",
+    "nationalityId": 11,
+    "stadiumId": 142
+  },
+  {
+    "name": "Empoli",
+    "nationalityId": 11,
+    "stadiumId": 143
+  },
+  {
+    "name": "Foggia",
+    "nationalityId": 11,
+    "stadiumId": 144
+  },
+  {
+    "name": "Lecce",
+    "nationalityId": 11,
+    "stadiumId": 145
+  },
+  {
+    "name": "Monza",
+    "nationalityId": 11,
+    "stadiumId": 146
+  },
+  {
+    "name": "Novara",
+    "nationalityId": 11,
+    "stadiumId": 147
+  },
+  {
+    "name": "Perugia",
+    "nationalityId": 11,
+    "stadiumId": 148
+  },
+  {
+    "name": "Pescara",
+    "nationalityId": 11,
+    "stadiumId": 149
+  },
+  {
+    "name": "Pisa",
+    "nationalityId": 11,
+    "stadiumId": 150
+  },
+  {
+    "name": "Reggiana",
+    "nationalityId": 11,
+    "stadiumId": 151
+  },
+  {
+    "name": "Salernitana",
+    "nationalityId": 11,
+    "stadiumId": 152
+  },
+  {
+    "name": "Sampdoria",
+    "nationalityId": 11,
+    "stadiumId": 153
+  },
+  {
+    "name": "Ternana",
+    "nationalityId": 11,
+    "stadiumId": 154
+  },
+  {
+    "name": "Vicenza",
+    "nationalityId": 11,
+    "stadiumId": 155
+  },
+  {
+    "name": "Ajax",
+    "nationalityId": 14,
+    "stadiumId": 156
+  },
+  {
+    "name": "PSV",
+    "nationalityId": 14,
+    "stadiumId": 157
+  },
+  {
+    "name": "Feyenoord",
+    "nationalityId": 14,
+    "stadiumId": 158
+  },
+  {
+    "name": "AZ",
+    "nationalityId": 14,
+    "stadiumId": 159
+  },
+  {
+    "name": "Vitesse",
+    "nationalityId": 14,
+    "stadiumId": 160
+  },
+  {
+    "name": "FC Utrecht",
+    "nationalityId": 14,
+    "stadiumId": 161
+  },
+  {
+    "name": "Heracles Almelo",
+    "nationalityId": 14,
+    "stadiumId": 162
+  },
+  {
+    "name": "FC Twente",
+    "nationalityId": 14,
+    "stadiumId": 163
+  },
+  {
+    "name": "PEC Zwolle",
+    "nationalityId": 14,
+    "stadiumId": 164
+  },
+  {
+    "name": "Willem II",
+    "nationalityId": 14,
+    "stadiumId": 165
+  },
+  {
+    "name": "SC Heerenveen",
+    "nationalityId": 14,
+    "stadiumId": 166
+  },
+  {
+    "name": "Sparta Rotterdam",
+    "nationalityId": 14,
+    "stadiumId": 167
+  },
+  {
+    "name": "FC Groningen",
+    "nationalityId": 14,
+    "stadiumId": 168
+  },
+  {
+    "name": "ADO Den Haag",
+    "nationalityId": 14,
+    "stadiumId": 169
+  },
+  {
+    "name": "RKC Waalwijk",
+    "nationalityId": 14,
+    "stadiumId": 170
+  },
+  {
+    "name": "FC Emmen",
+    "nationalityId": 14,
+    "stadiumId": 171
+  },
+  {
+    "name": "Fortuna Sittard",
+    "nationalityId": 14,
+    "stadiumId": 172
+  },
+  {
+    "name": "NEC",
+    "nationalityId": 14,
+    "stadiumId": 173
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "nationalityId": 14,
+    "stadiumId": 174
+  },
+  {
+    "name": "Cambuur",
+    "nationalityId": 14,
+    "stadiumId": 175
+  },
+  {
+    "name": "Almere City FC",
+    "nationalityId": 14,
+    "stadiumId": 176
+  },
+  {
+    "name": "Cambuur Leeuwarden",
+    "nationalityId": 14,
+    "stadiumId": 177
+  },
+  {
+    "name": "De Graafschap",
+    "nationalityId": 14,
+    "stadiumId": 178
+  },
+  {
+    "name": "Den Bosch",
+    "nationalityId": 14,
+    "stadiumId": 179
+  },
+  {
+    "name": "Dordrecht",
+    "nationalityId": 14,
+    "stadiumId": 180
+  },
+  {
+    "name": "Eindhoven",
+    "nationalityId": 14,
+    "stadiumId": 181
+  },
+  {
+    "name": "Excelsior",
+    "nationalityId": 14,
+    "stadiumId": 182
+  },
+  {
+    "name": "FC Dordrecht",
+    "nationalityId": 14,
+    "stadiumId": 183
+  },
+  {
+    "name": "FC Eindhoven",
+    "nationalityId": 14,
+    "stadiumId": 184
+  },
+  {
+    "name": "FC Emmen",
+    "nationalityId": 14,
+    "stadiumId": 185
+  },
+  {
+    "name": "FC Oss",
+    "nationalityId": 14,
+    "stadiumId": 186
+  },
+  {
+    "name": "FC Volendam",
+    "nationalityId": 14,
+    "stadiumId": 187
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "nationalityId": 14,
+    "stadiumId": 188
+  },
+  {
+    "name": "Helmond Sport",
+    "nationalityId": 14,
+    "stadiumId": 189
+  },
+  {
+    "name": "Jong Ajax",
+    "nationalityId": 14,
+    "stadiumId": 190
+  },
+  {
+    "name": "Jong AZ",
+    "nationalityId": 14,
+    "stadiumId": 191
+  },
+  {
+    "name": "Jong FC Utrecht",
+    "nationalityId": 14,
+    "stadiumId": 192
+  },
+  {
+    "name": "Jong PSV",
+    "nationalityId": 14,
+    "stadiumId": 193
+  },
+  {
+    "name": "NEC",
+    "nationalityId": 14,
+    "stadiumId": 194
+  },
+  {
+    "name": "Roda JC Kerkrade",
+    "nationalityId": 14,
+    "stadiumId": 195
+  }
+]

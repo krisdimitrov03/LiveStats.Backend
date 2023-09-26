@@ -1,0 +1,86 @@
+﻿[
+  {
+    "name": "International",
+    "imageUrl": "https://assets.stickpng.com/images/580b585b2edbce24c47b2d43.png"
+  },
+  {
+    "name": "Argentina",
+    "imageUrl": "https://www.worldometers.info/img/flags/ar-flag.gif"
+  },
+  {
+    "name": "Belgium",
+    "imageUrl": "https://www.worldometers.info/img/flags/be-flag.gif"
+  },
+  {
+    "name": "Brazil",
+    "imageUrl": "https://www.worldometers.info/img/flags/br-flag.gif"
+  },
+  {
+    "name": "Colombia",
+    "imageUrl": "https://www.worldometers.info/img/flags/co-flag.gif"
+  },
+  {
+    "name": "Croatia",
+    "imageUrl": "https://www.worldometers.info/img/flags/hr-flag.gif"
+  },
+  {
+    "name": "Denmark",
+    "imageUrl": "https://www.worldometers.info/img/flags/da-flag.gif"
+  },
+  {
+    "name": "England",
+    "imageUrl": "https://www.britain-visitor.com/images/content_images/england-flag.jpg"
+  },
+  {
+    "name": "France",
+    "imageUrl": "https://www.worldometers.info/img/flags/fr-flag.gif"
+  },
+  {
+    "name": "Germany",
+    "imageUrl": "https://www.worldometers.info/img/flags/gm-flag.gif"
+  },
+  {
+    "name": "Italy",
+    "imageUrl": "https://www.worldometers.info/img/flags/it-flag.gif"
+  },
+  {
+    "name": "Japan",
+    "imageUrl": "https://www.worldometers.info/img/flags/ja-flag.gif"
+  },
+  {
+    "name": "Mexico",
+    "imageUrl": "https://www.worldometers.info/img/flags/mx-flag.gif"
+  },
+  {
+    "name": "Netherlands",
+    "imageUrl": "https://www.worldometers.info/img/flags/nl-flag.gif"
+  },
+  {
+    "name": "Portugal",
+    "imageUrl": "https://www.worldometers.info/img/flags/po-flag.gif"
+  },
+  {
+    "name": "Senegal",
+    "imageUrl": "https://www.worldometers.info/img/flags/sg-flag.gif"
+  },
+  {
+    "name": "Spain",
+    "imageUrl": "https://www.worldometers.info/img/flags/sp-flag.gif"
+  },
+  {
+    "name": "Switzerland",
+    "imageUrl": "https://www.worldometers.info/img/flags/sz-flag.gif"
+  },
+  {
+    "name": "United States",
+    "imageUrl": "https://www.worldometers.info/img/flags/us-flag.gif"
+  },
+  {
+    "name": "Uruguay",
+    "imageUrl": "https://www.worldometers.info/img/flags/uy-flag.gif"
+  },
+  {
+    "name": "Morocco",
+    "imageUrl": "https://www.worldometers.info/img/flags/mo-flag.gif"
+  }
+]

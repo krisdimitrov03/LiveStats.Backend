@@ -1,0 +1,70 @@
+﻿[
+  {
+    "name": "GK",
+    "positionTypeId": 1
+  },
+  {
+    "name": "LB",
+    "positionTypeId": 2
+  },
+  {
+    "name": "RB",
+    "positionTypeId": 2
+  },
+  {
+    "name": "LWB",
+    "positionTypeId": 2
+  },
+  {
+    "name": "RWB",
+    "positionTypeId": 2
+  },
+  {
+    "name": "CB",
+    "positionTypeId": 2
+  },
+  {
+    "name": "CDM",
+    "positionTypeId": 3
+  },
+  {
+    "name": "CM",
+    "positionTypeId": 3
+  },
+  {
+    "name": "CAM",
+    "positionTypeId": 3
+  },
+  {
+    "name": "LM",
+    "positionTypeId": 3
+  },
+  {
+    "name": "RM",
+    "positionTypeId": 3
+  },
+  {
+    "name": "LW",
+    "positionTypeId": 4
+  },
+  {
+    "name": "RW",
+    "positionTypeId": 4
+  },
+  {
+    "name": "LF",
+    "positionTypeId": 4
+  },
+  {
+    "name": "RF",
+    "positionTypeId": 4
+  },
+  {
+    "name": "CF",
+    "positionTypeId": 4
+  },
+  {
+    "name": "ST",
+    "positionTypeId": 4
+  }
+]

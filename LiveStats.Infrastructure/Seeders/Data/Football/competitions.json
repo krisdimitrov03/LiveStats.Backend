@@ -1,0 +1,58 @@
+﻿[
+  {
+    "name": "Premier League",
+    "nationalityId": 8
+  },
+  {
+    "name": "EFL Championship",
+    "nationalityId": 8
+  },
+  {
+    "name": "Ligue 1",
+    "nationalityId": 9
+  },
+  {
+    "name": "Ligue 2",
+    "nationalityId": 9
+  },
+  {
+    "name": "Bundesliga",
+    "nationalityId": 10
+  },
+  {
+    "name": "Bundesliga 2",
+    "nationalityId": 10
+  },
+  {
+    "name": "Serie A",
+    "nationalityId": 11
+  },
+  {
+    "name": "Serie B",
+    "nationalityId": 11
+  },
+  {
+    "name": "Eredivisie",
+    "nationalityId": 14
+  },
+  {
+    "name": "Eerste Divisie",
+    "nationalityId": 14
+  },
+  {
+    "name": "Primeira Liga",
+    "nationalityId": 15
+  },
+  {
+    "name": "Liga Portugal 2",
+    "nationalityId": 15
+  },
+  {
+    "name": "La Liga",
+    "nationalityId": 17
+  },
+  {
+    "name": "La Liga 2",
+    "nationalityId": 17
+  }
+]

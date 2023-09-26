@@ -1,0 +1,782 @@
+﻿[
+  {
+    "name": "Emirates Stadium",
+    "capacity": 60704
+  },
+  {
+    "name": "Villa Park",
+    "capacity": 42785
+  },
+  {
+    "name": "Brentford Community Stadium",
+    "capacity": 17250
+  },
+  {
+    "name": "Falmer Stadium (American Express Community Stadium)",
+    "capacity": 30666
+  },
+  {
+    "name": "Turf Moor",
+    "capacity": 21944
+  },
+  {
+    "name": "Stamford Bridge",
+    "capacity": 40834
+  },
+  {
+    "name": "Selhurst Park",
+    "capacity": 25486
+  },
+  {
+    "name": "Goodison Park",
+    "capacity": 39414
+  },
+  {
+    "name": "Elland Road",
+    "capacity": 37792
+  },
+  {
+    "name": "King Power Stadium",
+    "capacity": 32261
+  },
+  {
+    "name": "Anfield",
+    "capacity": 53394
+  },
+  {
+    "name": "Etihad Stadium",
+    "capacity": 55017
+  },
+  {
+    "name": "Old Trafford",
+    "capacity": 74140
+  },
+  {
+    "name": "St James' Park",
+    "capacity": 52305
+  },
+  {
+    "name": "Carrow Road",
+    "capacity": 27244
+  },
+  {
+    "name": "St Mary's Stadium",
+    "capacity": 32384
+  },
+  {
+    "name": "Tottenham Hotspur Stadium",
+    "capacity": 62850
+  },
+  {
+    "name": "Vicarage Road",
+    "capacity": 22200
+  },
+  {
+    "name": "London Stadium (Olympic Stadium)",
+    "capacity": 60000
+  },
+  {
+    "name": "Molineux Stadium",
+    "capacity": 31700
+  },
+  {
+    "name": "St Andrew's",
+    "capacity": 294091
+  },
+  {
+    "name": "Ewood Park",
+    "capacity": 313671
+  },
+  {
+    "name": "Ashton Gate Stadium",
+    "capacity": 270001
+  },
+  {
+    "name": "Cardiff City Stadium",
+    "capacity": 332801
+  },
+  {
+    "name": "Coventry Building Society Arena",
+    "capacity": 326091
+  },
+  {
+    "name": "Kirklees Stadium",
+    "capacity": 241211
+  },
+  {
+    "name": "MKM Stadium",
+    "capacity": 255861
+  },
+  {
+    "name": "Portman Road",
+    "capacity": 296731
+  },
+  {
+    "name": "Elland Road",
+    "capacity": 376081
+  },
+  {
+    "name": "King Power Stadium",
+    "capacity": 322621
+  },
+  {
+    "name": "Riverside Stadium",
+    "capacity": 347421
+  },
+  {
+    "name": "The Den",
+    "capacity": 201461
+  },
+  {
+    "name": "Carrow Road",
+    "capacity": 273591
+  },
+  {
+    "name": "Home Park",
+    "capacity": 179001
+  },
+  {
+    "name": "Deepdale",
+    "capacity": 234041
+  },
+  {
+    "name": "Loftus Road",
+    "capacity": 184391
+  },
+  {
+    "name": "New York Stadium",
+    "capacity": 120212
+  },
+  {
+    "name": "Hillsborough Stadium",
+    "capacity": 397322
+  },
+  {
+    "name": "St Mary's Stadium",
+    "capacity": 323842
+  },
+  {
+    "name": "bet365 Stadium",
+    "capacity": 300892
+  },
+  {
+    "name": "Stade Louis-II",
+    "capacity": 16360
+  },
+  {
+    "name": "Stade Francis-Le Blé",
+    "capacity": 15097
+  },
+  {
+    "name": "Orange Vélodrome",
+    "capacity": 67394
+  },
+  {
+    "name": "Parc des Princes",
+    "capacity": 47929
+  },
+  {
+    "name": "Stade Pierre-Mauroy",
+    "capacity": 50186
+  },
+  {
+    "name": "Stade Saint-Symphorien",
+    "capacity": 25636
+  },
+  {
+    "name": "Roazhon Park",
+    "capacity": 29778
+  },
+  {
+    "name": "Stade Auguste-Delaune II",
+    "capacity": 21684
+  },
+  {
+    "name": "Stade de la Meinau",
+    "capacity": 26109
+  },
+  {
+    "name": "Stade Océane",
+    "capacity": 25178
+  },
+  {
+    "name": "Stade du Moustoir",
+    "capacity": 16165
+  },
+  {
+    "name": "Stadium de Toulouse",
+    "capacity": 33150
+  },
+  {
+    "name": "Stade de la Mosson",
+    "capacity": 32900
+  },
+  {
+    "name": "Stade de la Beaujoire - Louis Fonteneau",
+    "capacity": 38285
+  },
+  {
+    "name": "Groupama Stadium (Parc Olympique Lyonnais)",
+    "capacity": 59186
+  },
+  {
+    "name": "Stade Gabriel Montpied",
+    "capacity": 11980
+  },
+  {
+    "name": "Stade François Coty",
+    "capacity": 10601
+  },
+  {
+    "name": "Stade de la Licorne",
+    "capacity": 120972
+  },
+  {
+    "name": "Parc des Sports",
+    "capacity": 156603
+  },
+  {
+    "name": "Stade Raymond Kopa",
+    "capacity": 18752
+  },
+  {
+    "name": "Stade de l'Abbé-Deschamps",
+    "capacity": 23467
+  },
+  {
+    "name": "Stade Armand Cesari",
+    "capacity": 16480
+  },
+  {
+    "name": "Matmut Atlantique",
+    "capacity": 42115
+  },
+  {
+    "name": "Stade Michel d'Ornano",
+    "capacity": 21500
+  },
+  {
+    "name": "Stade Guy Piriou",
+    "capacity": 5000
+  },
+  {
+    "name": "Stade Marcel-Tribut",
+    "capacity": 4000
+  },
+  {
+    "name": "Stade des Alpes",
+    "capacity": 20068
+  },
+  {
+    "name": "Stade de Roudourou",
+    "capacity": 18250
+  },
+  {
+    "name": "Stade Francis-Le Basser",
+    "capacity": 18739
+  },
+  {
+    "name": "Stade Charléty",
+    "capacity": 20000
+  },
+  {
+    "name": "Stade du Hameau",
+    "capacity": 18324
+  },
+  {
+    "name": "Stade Robert Diochon",
+    "capacity": 12018
+  },
+  {
+    "name": "Stade Paul Lignon",
+    "capacity": 5000
+  },
+  {
+    "name": "Stade Geoffroy-Guichard",
+    "capacity": 41965
+  },
+  {
+    "name": "Stade de l'Aube",
+    "capacity": 20400
+  },
+  {
+    "name": "Stade du Hainaut",
+    "capacity": 25172
+  },
+  {
+    "name": "Rhein Energie Stadion",
+    "capacity": 50000
+  },
+  {
+    "name": "Stadion An der Alten Försterei",
+    "capacity": 22012
+  },
+  {
+    "name": "Opel Arena",
+    "capacity": 34034
+  },
+  {
+    "name": "SchücoArena",
+    "capacity": 27300
+  },
+  {
+    "name": "BayArena",
+    "capacity": 30210
+  },
+  {
+    "name": "Signal Iduna Park",
+    "capacity": 81365
+  },
+  {
+    "name": "Borussia-Park",
+    "capacity": 54022
+  },
+  {
+    "name": "Deutsche Bank Park",
+    "capacity": 51500
+  },
+  {
+    "name": "WWK Arena",
+    "capacity": 30660
+  },
+  {
+    "name": "Allianz Arena",
+    "capacity": 75000
+  },
+  {
+    "name": "Veltins-Arena",
+    "capacity": 62271
+  },
+  {
+    "name": "Olympiastadion Berlin",
+    "capacity": 74475
+  },
+  {
+    "name": "Red Bull Arena Leipzig",
+    "capacity": 42959
+  },
+  {
+    "name": "Schwarzwald-Stadion",
+    "capacity": 24000
+  },
+  {
+    "name": "Sportpark Ronhof Thomas Sommer",
+    "capacity": 18000
+  },
+  {
+    "name": "wohninvest WESERSTADION",
+    "capacity": 42100
+  },
+  {
+    "name": "PreZero Arena",
+    "capacity": 30150
+  },
+  {
+    "name": "Mercedes-Benz Arena Stuttgart",
+    "capacity": 60449
+  },
+  {
+    "name": "Vonovia Ruhrstadion",
+    "capacity": 27599
+  },
+  {
+    "name": "Volkswagen Arena",
+    "capacity": 30000
+  },
+  {
+    "name": "Voith-Arena",
+    "capacity": 15000
+  },
+  {
+    "name": "Fritz-Walter-Stadion",
+    "capacity": 49780
+  },
+  {
+    "name": "MDCC-Arena",
+    "capacity": 27250
+  },
+  {
+    "name": "Max-Morlock-Stadion",
+    "capacity": 50000
+  },
+  {
+    "name": "Merck-Stadion am Böllenfalltor",
+    "capacity": 17400
+  },
+  {
+    "name": "Ostseestadion",
+    "capacity": 29000
+  },
+  {
+    "name": "Audi Sportpark",
+    "capacity": 15200
+  },
+  {
+    "name": "Veltins-Arena",
+    "capacity": 62271
+  },
+  {
+    "name": "Merkur Spiel-Arena",
+    "capacity": 54600
+  },
+  {
+    "name": "Sportpark Ronhof Thomas Sommer",
+    "capacity": 18000
+  },
+  {
+    "name": "Volksparkstadion",
+    "capacity": 57000
+  },
+  {
+    "name": "HDI-Arena (Niedersachsenstadion)",
+    "capacity": 49200
+  },
+  {
+    "name": "Holstein-Stadion (Städtisches Stadion an der Kieler Förde)",
+    "capacity": 15034
+  },
+  {
+    "name": "Wildparkstadion (KSCKarlsruhe)",
+    "capacity": 29699
+  },
+  {
+    "name": "Benteler-Arena (Paragon Arena)",
+    "capacity": 15000
+  },
+  {
+    "name": "Merck-Stadion am Böllenfalltor",
+    "capacity": 17400
+  },
+  {
+    "name": "BWT-Stadion am Hardtwald (Hardtwaldstadion)",
+    "capacity": 15414
+  },
+  {
+    "name": "Vonovia Ruhrstadion (rewirpowerSTADION)",
+    "capacity": 27599
+  },
+  {
+    "name": "Bremer Brücke (Stadion an der Bremer Brücke)",
+    "capacity": 16100
+  },
+  {
+    "name": "BRITA-Arena (Waldstadion)",
+    "capacity": 12566
+  },
+  {
+    "name": "Gewiss Stadium",
+    "capacity": 21300
+  },
+  {
+    "name": "Renato Dall'Ara Stadium",
+    "capacity": 38279
+  },
+  {
+    "name": "Sardegna Arena",
+    "capacity": 16416
+  },
+  {
+    "name": "Carlo Castellani Stadium",
+    "capacity": 16800
+  },
+  {
+    "name": "Stadio Artemio Franchi",
+    "capacity": 43147
+  },
+  {
+    "name": "Benito Stirpe Stadium",
+    "capacity": 16227
+  },
+  {
+    "name": "Luigi Ferraris Stadium",
+    "capacity": 36599
+  },
+  {
+    "name": "Marcantonio Bentegodi Stadium",
+    "capacity": 39211
+  },
+  {
+    "name": "San Siro Stadium",
+    "capacity": 75817
+  },
+  {
+    "name": "Allianz Stadium",
+    "capacity": 41507
+  },
+  {
+    "name": "Stadio Olimpico",
+    "capacity": 72698
+  },
+  {
+    "name": "Stadio Via del Mare",
+    "capacity": 40670
+  },
+  {
+    "name": "Brianteo Stadium",
+    "capacity": 16917
+  },
+  {
+    "name": "Diego Armando Maradona Stadium",
+    "capacity": 54726
+  },
+  {
+    "name": "Estadio Olimpico",
+    "capacity": 72698
+  },
+  {
+    "name": "Arechi Stadium",
+    "capacity": 37800
+  },
+  {
+    "name": "Mapei Stadium",
+    "capacity": 25300
+  },
+  {
+    "name": "Stadio Olimpico",
+    "capacity": 25300
+  },
+  {
+    "name": "Stadio Friuli",
+    "capacity": 25132
+  },
+  {
+    "name": "Stadio Cino e Lillo Del Duca",
+    "capacity": 20000
+  },
+  {
+    "name": "Stadio Mario Rigamonti",
+    "capacity": 27500
+  },
+  {
+    "name": "Stadio Dino Manuzzi",
+    "capacity": 23895
+  },
+  {
+    "name": "Stadio Marc'Antonio Bentegodi",
+    "capacity": 39600
+  },
+  {
+    "name": "Stadio Pier Cesare Tombolato",
+    "capacity": 7500
+  },
+  {
+    "name": "Stadio San Vito-Gigi Marulla",
+    "capacity": 23000
+  },
+  {
+    "name": "Stadio Giovanni Zini",
+    "capacity": 20500
+  },
+  {
+    "name": "Stadio Carlo Castellani",
+    "capacity": 16626
+  },
+  {
+    "name": "Stadio Pino Zaccheria",
+    "capacity": 25000
+  },
+  {
+    "name": "Stadio Via del Mare",
+    "capacity": 36470
+  },
+  {
+    "name": "Stadio Brianteo",
+    "capacity": 18400
+  },
+  {
+    "name": "Stadio Silvio Piola",
+    "capacity": 17018
+  },
+  {
+    "name": "Stadio Renato Curi",
+    "capacity": 24407
+  },
+  {
+    "name": "Stadio Adriatico-Giovanni Cornacchia",
+    "capacity": 20538
+  },
+  {
+    "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "capacity": 25000
+  },
+  {
+    "name": "Mapei Stadium - Città del Tricolore",
+    "capacity": 20202
+  },
+  {
+    "name": "Stadio Arechi",
+    "capacity": 37245
+  },
+  {
+    "name": "Stadio Luigi Ferraris",
+    "capacity": 36000
+  },
+  {
+    "name": "Stadio Libero Liberati",
+    "capacity": 13500
+  },
+  {
+    "name": "Stadio Romeo Menti",
+    "capacity": 12500
+  },
+  {
+    "name": "Johan Cruijff ArenA",
+    "capacity": 55000
+  },
+  {
+    "name": "Philips Stadion",
+    "capacity": 35000
+  },
+  {
+    "name": "De Kuip",
+    "capacity": 51000
+  },
+  {
+    "name": "AFAS Stadion",
+    "capacity": 17000
+  },
+  {
+    "name": "GelreDome",
+    "capacity": 21000
+  },
+  {
+    "name": "Stadion Galgenwaard",
+    "capacity": 24000
+  },
+  {
+    "name": "Erve Asito",
+    "capacity": 13000
+  },
+  {
+    "name": "De Grolsch Veste",
+    "capacity": 30000
+  },
+  {
+    "name": "MAC3PARK stadion",
+    "capacity": 14000
+  },
+  {
+    "name": "Koning Willem II Stadion",
+    "capacity": 14500
+  },
+  {
+    "name": "Abe Lenstra Stadion",
+    "capacity": 26000
+  },
+  {
+    "name": "Sparta-Stadion Het Kasteel",
+    "capacity": 10500
+  },
+  {
+    "name": "Hitachi Capital Mobility Stadion",
+    "capacity": 22500
+  },
+  {
+    "name": "Cars Jeans Stadion",
+    "capacity": 15000
+  },
+  {
+    "name": "Mandemakers Stadion",
+    "capacity": 7500
+  },
+  {
+    "name": "De Oude Meerdijk",
+    "capacity": 8500
+  },
+  {
+    "name": "Fortuna Sittard Stadion",
+    "capacity": 12500
+  },
+  {
+    "name": "Goffertstadion",
+    "capacity": 12500
+  },
+  {
+    "name": "Adelaarshorst",
+    "capacity": 10000
+  },
+  {
+    "name": "Cambuur Stadion",
+    "capacity": 10000
+  },
+  {
+    "name": "Yanmar Stadion",
+    "capacity": 3500
+  },
+  {
+    "name": "Cambuur Stadion",
+    "capacity": 10000
+  },
+  {
+    "name": "De Vijverberg",
+    "capacity": 12320
+  },
+  {
+    "name": "De Vliert",
+    "capacity": 8500
+  },
+  {
+    "name": "Riwal Hoogwerkers Stadion",
+    "capacity": 4500
+  },
+  {
+    "name": "Jan Louwers Stadion",
+    "capacity": 4800
+  },
+  {
+    "name": "Van Donge & De Roo Stadion",
+    "capacity": 4411
+  },
+  {
+    "name": "Riwal Hoogwerkers Stadion",
+    "capacity": 4500
+  },
+  {
+    "name": "Jan Louwers Stadion",
+    "capacity": 4800
+  },
+  {
+    "name": "Jens Vesting",
+    "capacity": 8600
+  },
+  {
+    "name": "Frans Heesen Stadion",
+    "capacity": 4500
+  },
+  {
+    "name": "Kras Stadion",
+    "capacity": 6982
+  },
+  {
+    "name": "De Adelaarshorst",
+    "capacity": 10000
+  },
+  {
+    "name": "Lavans Stadion",
+    "capacity": 4500
+  },
+  {
+    "name": "Sportpark De Toekomst",
+    "capacity": 2100
+  },
+  {
+    "name": "AFAS Trainingscomplex",
+    "capacity": 1000
+  },
+  {
+    "name": "Sportcomplex Zoudenbalch",
+    "capacity": 2000
+  },
+  {
+    "name": "De Herdgang",
+    "capacity": 1800
+  },
+  {
+    "name": "Goffertstadion",
+    "capacity": 12500
+  },
+  {
+    "name": "Parkstad Limburg Stadion",
+    "capacity": 19500
+  }
+]
