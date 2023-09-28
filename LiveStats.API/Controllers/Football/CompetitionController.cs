@@ -12,12 +12,12 @@ namespace LiveStats.API.Controllers.Football
             service = _service;
         }
 
-        [HttpGet(nameof(All))]
-        public async Task<IActionResult> All()
-        {
-            var data = await service.GetAll();
+        //[HttpGet(nameof(All))]
+        //public async Task<IActionResult> All()
+        //{
+        //    //var data = await service.GetAll();
 
-            return Ok(data);
-        }
+        //    //return Ok(data);
+        //}
     }
 }

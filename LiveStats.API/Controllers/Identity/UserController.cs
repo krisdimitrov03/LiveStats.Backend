@@ -22,7 +22,7 @@ namespace LiveStats.API.Controllers.Identity
         }
 
         [HttpPost(nameof(Login))]
-        public async Task<IActionResult> Login(LoginModel data)
+        public async Task<IActionResult> Login([FromBody] LoginModel data)
         {
             var (success, token) = await service.LogUserIn(data);
 
@@ -39,7 +39,7 @@ namespace LiveStats.API.Controllers.Identity
         }
 
         [HttpPost(nameof(Register))]
-        public async Task<IActionResult> Register(RegisterModel data)
+        public async Task<IActionResult> Register([FromBody] RegisterModel data)
         {
             var (success, errors) = await service.RegisterUser(data);
 

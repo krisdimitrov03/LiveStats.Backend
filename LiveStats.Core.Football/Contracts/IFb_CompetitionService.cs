@@ -9,6 +9,14 @@ namespace LiveStats.Core.Football.Contracts
 {
     public interface IFb_CompetitionService
     {
-        Task<List<Fb_Competition>> GetAll();
+        Task GetAll();
+
+        Task GetByCountry(int countryId);
+
+        Task GetDetails(int id);
+
+        Task GetStandings(int id);
+
+
     }
 }

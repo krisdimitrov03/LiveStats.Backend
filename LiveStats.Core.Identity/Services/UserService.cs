@@ -54,7 +54,7 @@ namespace LiveStats.Core.Identity.Services
                     UserId = user.Id,
                     Username = user.UserName,
                     Roles = string.Join(", ", roles),
-                    ImageUrl = user.ImageUrl
+                    ImageUrl = user.ImageUrl == null ? "" : user.ImageUrl
                 };
 
                 var token = jwtService.GenerateToken(tokenData, jwtSettings);

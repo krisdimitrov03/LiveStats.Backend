@@ -1,4 +1,5 @@
 using LiveStats.API.Extensions;
+using LiveStats.Core.Football.Managers;
 using LiveStats.Infrastructure.Seeders;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +25,8 @@ app.UseRouting()
     .UseAuthentication()
     .UseAuthorization()
     .MapControllers()
-    .SeedDatabase();
+    .SeedDatabase()
+    //.GenerateRandomMatches(20)
+    ;
 
 app.Run();

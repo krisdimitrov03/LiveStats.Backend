@@ -23,5 +23,25 @@ namespace LiveStats.Core.Football.Services
         {
             return await repo.All<Fb_Competition>().ToListAsync();
         }
+
+        public Task GetByCountry(int countryId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task GetDetails(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task GetStandings(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task IFb_CompetitionService.GetAll()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

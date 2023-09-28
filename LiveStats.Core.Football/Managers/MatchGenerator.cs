@@ -1,12 +1,77 @@
-﻿using System.Threading.Tasks;
+﻿using LiveStats.Infrastructure.Data;
+using LiveStats.Infrastructure.Data.Models.Football;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using System.Threading.Tasks;
 
 namespace LiveStats.Core.Football.Managers
 {
-    public class MatchGenerator
+    public static class MatchGenerator
     {
-        public static async Task Run()
-        {
+        private static Random rand = new Random();
+        private static int[] countryIds = { 8, 9, 10, 11, 14 };
 
+        public static IApplicationBuilder GenerateRandomMatches(this IApplicationBuilder builder, int count)
+        {
+            for (int i = 0; i < count; i++)
+                CreateRandomMatch(builder);
+
+            return builder;
+        }
+
+        private static void CreateRandomMatch(IApplicationBuilder builder)
+        {
+            using (var serviceScope = builder.ApplicationServices.CreateScope())
+            {
+                var context = serviceScope.ServiceProvider.GetService<DatabaseContext>();
+
+                int nationalityId = countryIds[rand.Next(0, countryIds.Length - 1)];
+
+                int[] competitionIds = context
+                    .Set<Fb_Competition>()
+                    .Where(c => c.NationalityId == nationalityId)
+                    .Select(c => c.Id)
+                    .ToArray();
+
+                int competitionId = competitionIds[rand.Next(0, competitionIds.Length - 1)];
+
+                int[] teamIds = context
+                    .Set<Fb_CompetitionTeam>()
+                    .Where(ct => ct.CompetitionId == competitionId)
+                    .Select(ct => ct.TeamId)
+                    .ToArray();
+
+                int homeTeamId = -1;
+                int awayTeamId = -1;
+
+                while (homeTeamId == awayTeamId)
+                {
+                    homeTeamId = teamIds[rand.Next(0, teamIds.Length - 1)];
+                    awayTeamId = teamIds[rand.Next(0, teamIds.Length - 1)];
+                }
+
+                var dateTime = DateTime.Now.AddDays(rand.Next(50));
+
+                Fb_Match result = new Fb_Match()
+                {
+                    InProgress = dateTime == DateTime.Now,
+                    DateAndTime = dateTime,
+                    HomeTeamId = homeTeamId,
+                    AwayTeamId = awayTeamId,
+                    CompetitionId = competitionId,
+                    
+                };
+
+                result.StadiumId = context
+                    .Set<Fb_Team>()
+                    .First(t => t.Id == homeTeamId)
+                    .StadiumId;
+
+                context.Set<Fb_Match>()
+                    .Add(result);
+
+                context.SaveChanges();
+            }
         }
     }
 }
