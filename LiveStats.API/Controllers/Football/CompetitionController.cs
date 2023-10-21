@@ -36,5 +36,13 @@ namespace LiveStats.API.Controllers.Football
                 return Ok(data);
             }
         }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Details(int id)
+        {
+            var data = await service.GetDetails(id);
+
+            return Ok(data);
+        }
     }
 }
