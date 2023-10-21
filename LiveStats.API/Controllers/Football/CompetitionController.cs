@@ -12,12 +12,29 @@ namespace LiveStats.API.Controllers.Football
             service = _service;
         }
 
-        //[HttpGet(nameof(All))]
-        //public async Task<IActionResult> All()
-        //{
-        //    //var data = await service.GetAll();
+        [HttpGet(nameof(All))]
+        public async Task<IActionResult> All()
+        {
+            var data = await service.GetAll();
 
-        //    //return Ok(data);
-        //}
+            return Ok(data);
+        }
+
+        [HttpGet(nameof(ByNationality))]
+        public async Task<IActionResult> ByNationality(int? id = null)
+        {
+            if(id == null)
+            {
+                var data = await service.GetGroupedByCountry();
+
+                return Ok(data);
+            }
+            else
+            {
+                var data = await service.GetByCountry((int)id);
+
+                return Ok(data);
+            }
+        }
     }
 }

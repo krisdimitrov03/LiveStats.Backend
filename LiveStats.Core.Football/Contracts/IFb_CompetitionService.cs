@@ -1,4 +1,7 @@
-﻿using LiveStats.Infrastructure.Data.Models.Football;
+﻿using LiveStats.Core.Football.Data.Models.Input;
+using LiveStats.Core.Football.Data.Models.Output;
+using LiveStats.Infrastructure.Data.Models.Football;
+using LiveStats.Infrastructure.Data.Models.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +12,20 @@ namespace LiveStats.Core.Football.Contracts
 {
     public interface IFb_CompetitionService
     {
-        Task GetAll();
+        Task<List<Fb_Competition>> GetAll();
 
-        Task GetByCountry(int countryId);
+        Task<List<Fb_Competition>> GetByCountry(int countryId);
 
-        Task GetDetails(int id);
+        Task<List<Fb_CompetitionsByNationalityModel>> GetGroupedByCountry();
 
-        Task GetStandings(int id);
+        Task<Fb_CompetitionDetailsModel> GetDetails(int id);
 
+        Task<List<Fb_TeamInStandingsModel>> GetStandings(int id);
 
+        Task<(bool, string?)> Create(Fb_CompetitionCreateModel data);
+
+        Task<bool> Update(Fb_CompetitionUpdateModel data);
+
+        Task<bool> Delete(int id);
     }
 }

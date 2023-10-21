@@ -1,58 +1,82 @@
 ﻿[
   {
+    "name": "UEFA Champions League",
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/2.png",
+    "nationalityId": 1
+  },
+  {
+    "name": "UEFA Europa League",
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/3.png",
+    "nationalityId": 1
+  },
+  {
     "name": "Premier League",
-    "nationalityId": 8
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/39.png",
+    "nationalityId": 49
   },
   {
     "name": "EFL Championship",
-    "nationalityId": 8
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/40.png",
+    "nationalityId": 49
   },
   {
     "name": "Ligue 1",
-    "nationalityId": 9
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/61.png",
+    "nationalityId": 56
   },
   {
     "name": "Ligue 2",
-    "nationalityId": 9
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/62.png",
+    "nationalityId": 56
   },
   {
     "name": "Bundesliga",
-    "nationalityId": 10
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/78.png",
+    "nationalityId": 60
   },
   {
     "name": "Bundesliga 2",
-    "nationalityId": 10
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/79.png",
+    "nationalityId": 60
   },
   {
     "name": "Serie A",
-    "nationalityId": 11
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/135.png",
+    "nationalityId": 68
   },
   {
     "name": "Serie B",
-    "nationalityId": 11
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/136.png",
+    "nationalityId": 68
   },
   {
     "name": "Eredivisie",
-    "nationalityId": 14
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/88.png",
+    "nationalityId": 80
   },
   {
     "name": "Eerste Divisie",
-    "nationalityId": 14
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/89.png",
+    "nationalityId": 80
   },
   {
     "name": "Primeira Liga",
-    "nationalityId": 15
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/94.png",
+    "nationalityId": 94
   },
   {
     "name": "Liga Portugal 2",
-    "nationalityId": 15
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/95.png",
+    "nationalityId": 94
   },
   {
     "name": "La Liga",
-    "nationalityId": 17
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/140.png",
+    "nationalityId": 110
   },
   {
     "name": "La Liga 2",
-    "nationalityId": 17
+    "imageUrl": "https://media-4.api-sports.io/football/leagues/141.png",
+    "nationalityId": 110
   }
 ]

@@ -1,982 +1,1766 @@
 ﻿[
   {
-    "name": "Arsenal",
-    "nationalityId": 8,
-    "stadiumId": 1
+    "name": "Manchester United",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/33.png",
+    "stadium": {
+      "name": "Old Trafford",
+      "capacity": 76212
+    }
   },
   {
-    "name": "Aston Villa",
-    "nationalityId": 8,
-    "stadiumId": 2
+    "name": "Newcastle",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/34.png",
+    "stadium": {
+      "name": "St. James' Park",
+      "capacity": 52758
+    }
   },
   {
-    "name": "Brentford",
-    "nationalityId": 8,
-    "stadiumId": 3
+    "name": "Bournemouth",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/35.png",
+    "stadium": {
+      "name": "Vitality Stadium",
+      "capacity": 12000
+    }
   },
   {
-    "name": "Brighton & Hove Albion",
-    "nationalityId": 8,
-    "stadiumId": 4
+    "name": "Fulham",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/36.png",
+    "stadium": {
+      "name": "Craven Cottage",
+      "capacity": 25700
+    }
   },
   {
-    "name": "Burnley",
-    "nationalityId": 8,
-    "stadiumId": 5
-  },
-  {
-    "name": "Chelsea",
-    "nationalityId": 8,
-    "stadiumId": 6
-  },
-  {
-    "name": "Crystal Palace",
-    "nationalityId": 8,
-    "stadiumId": 7
-  },
-  {
-    "name": "Everton",
-    "nationalityId": 8,
-    "stadiumId": 8
-  },
-  {
-    "name": "Leeds United",
-    "nationalityId": 8,
-    "stadiumId": 9
-  },
-  {
-    "name": "Leicester City",
-    "nationalityId": 8,
-    "stadiumId": 10
+    "name": "Wolves",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/39.png",
+    "stadium": {
+      "name": "Molineux Stadium",
+      "capacity": 34624
+    }
   },
   {
     "name": "Liverpool",
-    "nationalityId": 8,
-    "stadiumId": 11
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/40.png",
+    "stadium": {
+      "name": "Anfield",
+      "capacity": 55212
+    }
+  },
+  {
+    "name": "Arsenal",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/42.png",
+    "stadium": {
+      "name": "Emirates Stadium",
+      "capacity": 60383
+    }
+  },
+  {
+    "name": "Burnley",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/44.png",
+    "stadium": {
+      "name": "Turf Moor",
+      "capacity": 22546
+    }
+  },
+  {
+    "name": "Everton",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/45.png",
+    "stadium": {
+      "name": "Goodison Park",
+      "capacity": 40569
+    }
+  },
+  {
+    "name": "Tottenham",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/47.png",
+    "stadium": {
+      "name": "Tottenham Hotspur Stadium",
+      "capacity": 62850
+    }
+  },
+  {
+    "name": "West Ham",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/48.png",
+    "stadium": {
+      "name": "London Stadium",
+      "capacity": 62500
+    }
+  },
+  {
+    "name": "Chelsea",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/49.png",
+    "stadium": {
+      "name": "Stamford Bridge",
+      "capacity": 41841
+    }
   },
   {
     "name": "Manchester City",
-    "nationalityId": 8,
-    "stadiumId": 12
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/50.png",
+    "stadium": {
+      "name": "Etihad Stadium",
+      "capacity": 55097
+    }
   },
   {
-    "name": "Manchester United",
-    "nationalityId": 8,
-    "stadiumId": 13
+    "name": "Brighton",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/51.png",
+    "stadium": {
+      "name": "The American Express Community Stadium",
+      "capacity": 31872
+    }
   },
   {
-    "name": "Newcastle United",
-    "nationalityId": 8,
-    "stadiumId": 14
+    "name": "Crystal Palace",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/52.png",
+    "stadium": {
+      "name": "Selhurst Park",
+      "capacity": 26309
+    }
   },
   {
-    "name": "Norwich City",
-    "nationalityId": 8,
-    "stadiumId": 15
+    "name": "Brentford",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/55.png",
+    "stadium": {
+      "name": "Gtech Community Stadium",
+      "capacity": 17250
+    }
   },
   {
-    "name": "Southampton",
-    "nationalityId": 8,
-    "stadiumId": 16
+    "name": "Sheffield Utd",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/62.png",
+    "stadium": {
+      "name": "Bramall Lane",
+      "capacity": 32702
+    }
   },
   {
-    "name": "Tottenham Hotspur",
-    "nationalityId": 8,
-    "stadiumId": 17
+    "name": "Nottingham Forest",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/65.png",
+    "stadium": {
+      "name": "The City Ground",
+      "capacity": 30576
+    }
+  },
+  {
+    "name": "Aston Villa",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/66.png",
+    "stadium": {
+      "name": "Villa Park",
+      "capacity": 42788
+    }
+  },
+  {
+    "name": "Luton",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1359.png",
+    "stadium": {
+      "name": "Kenilworth Road",
+      "capacity": 11000
+    }
+  },
+  {
+    "name": "Huddersfield",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/37.png",
+    "stadium": {
+      "name": "John Smith's Stadium",
+      "capacity": 24554
+    }
   },
   {
     "name": "Watford",
-    "nationalityId": 8,
-    "stadiumId": 18
-  },
-  {
-    "name": "West Ham United",
-    "nationalityId": 8,
-    "stadiumId": 19
-  },
-  {
-    "name": "Wolverhampton Wanderers",
-    "nationalityId": 8,
-    "stadiumId": 20
-  },
-  {
-    "name": "Birmingham City",
-    "nationalityId": 8,
-    "stadiumId": 21
-  },
-  {
-    "name": "Blackburn Rovers",
-    "nationalityId": 8,
-    "stadiumId": 22
-  },
-  {
-    "name": "Bristol City",
-    "nationalityId": 8,
-    "stadiumId": 23
-  },
-  {
-    "name": "Cardiff City",
-    "nationalityId": 8,
-    "stadiumId": 24
-  },
-  {
-    "name": "Coventry City",
-    "nationalityId": 8,
-    "stadiumId": 25
-  },
-  {
-    "name": "Huddersfield Town",
-    "nationalityId": 8,
-    "stadiumId": 26
-  },
-  {
-    "name": "Hull City",
-    "nationalityId": 8,
-    "stadiumId": 27
-  },
-  {
-    "name": "Ipswich Town",
-    "nationalityId": 8,
-    "stadiumId": 28
-  },
-  {
-    "name": "Leeds United",
-    "nationalityId": 8,
-    "stadiumId": 29
-  },
-  {
-    "name": "Leicester City",
-    "nationalityId": 8,
-    "stadiumId": 30
-  },
-  {
-    "name": "Middlesbrough",
-    "nationalityId": 8,
-    "stadiumId": 31
-  },
-  {
-    "name": "Millwall",
-    "nationalityId": 8,
-    "stadiumId": 32
-  },
-  {
-    "name": "Norwich City",
-    "nationalityId": 8,
-    "stadiumId": 33
-  },
-  {
-    "name": "Plymouth Argyle",
-    "nationalityId": 8,
-    "stadiumId": 34
-  },
-  {
-    "name": "Preston North End",
-    "nationalityId": 8,
-    "stadiumId": 35
-  },
-  {
-    "name": "Queens Park Rangers (QPR)",
-    "nationalityId": 8,
-    "stadiumId": 36
-  },
-  {
-    "name": "Rotherham United",
-    "nationalityId": 8,
-    "stadiumId": 37
-  },
-  {
-    "name": "Sheffield Wednesday",
-    "nationalityId": 8,
-    "stadiumId": 38
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/38.png",
+    "stadium": {
+      "name": "Vicarage Road",
+      "capacity": 22200
+    }
   },
   {
     "name": "Southampton",
-    "nationalityId": 8,
-    "stadiumId": 39
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/41.png",
+    "stadium": {
+      "name": "St. Mary's Stadium",
+      "capacity": 32689
+    }
+  },
+  {
+    "name": "Cardiff",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/43.png",
+    "stadium": {
+      "name": "Cardiff City Stadium",
+      "capacity": 33280
+    }
+  },
+  {
+    "name": "Leicester",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/46.png",
+    "stadium": {
+      "name": "King Power Stadium",
+      "capacity": 34310
+    }
+  },
+  {
+    "name": "Birmingham",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/54.png",
+    "stadium": {
+      "name": "St Andrew's Stadium",
+      "capacity": 30009
+    }
+  },
+  {
+    "name": "Bristol City",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/56.png",
+    "stadium": {
+      "name": "Ashton Gate Stadium",
+      "capacity": 27000
+    }
+  },
+  {
+    "name": "Ipswich",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/57.png",
+    "stadium": {
+      "name": "Portman Road",
+      "capacity": 30311
+    }
+  },
+  {
+    "name": "Millwall",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/58.png",
+    "stadium": {
+      "name": "The Den",
+      "capacity": 20146
+    }
+  },
+  {
+    "name": "Preston",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/59.png",
+    "stadium": {
+      "name": "Deepdale",
+      "capacity": 23408
+    }
+  },
+  {
+    "name": "West Brom",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/60.png",
+    "stadium": {
+      "name": "The Hawthorns",
+      "capacity": 28003
+    }
+  },
+  {
+    "name": "Leeds",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/63.png",
+    "stadium": {
+      "name": "Elland Road",
+      "capacity": 40204
+    }
+  },
+  {
+    "name": "Hull City",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/64.png",
+    "stadium": {
+      "name": "The MKM Stadium",
+      "capacity": 25504
+    }
+  },
+  {
+    "name": "Blackburn",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/67.png",
+    "stadium": {
+      "name": "Ewood Park",
+      "capacity": 31367
+    }
+  },
+  {
+    "name": "Middlesbrough",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/70.png",
+    "stadium": {
+      "name": "Riverside Stadium",
+      "capacity": 34988
+    }
+  },
+  {
+    "name": "Norwich",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/71.png",
+    "stadium": {
+      "name": "Carrow Road",
+      "capacity": 27606
+    }
+  },
+  {
+    "name": "QPR",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/72.png",
+    "stadium": {
+      "name": "Loftus Road",
+      "capacity": 18360
+    }
+  },
+  {
+    "name": "Rotherham",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/73.png",
+    "stadium": {
+      "name": "AESSEAL New York Stadium",
+      "capacity": 12021
+    }
+  },
+  {
+    "name": "Sheffield Wednesday",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/74.png",
+    "stadium": {
+      "name": "Hillsborough",
+      "capacity": 39814
+    }
   },
   {
     "name": "Stoke City",
-    "nationalityId": 8,
-    "stadiumId": 40
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/75.png",
+    "stadium": {
+      "name": "bet365 Stadium",
+      "capacity": 30089
+    }
   },
   {
-    "name": "AS Monaco",
-    "nationalityId": 9,
-    "stadiumId": 41
+    "name": "Swansea",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/76.png",
+    "stadium": {
+      "name": "Swansea.com Stadium",
+      "capacity": 21028
+    }
+  },
+  {
+    "name": "Sunderland",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/746.png",
+    "stadium": {
+      "name": "Stadium of Light",
+      "capacity": 49000
+    }
+  },
+  {
+    "name": "Coventry",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1346.png",
+    "stadium": {
+      "name": "The Coventry Building Society Arena",
+      "capacity": 32609
+    }
+  },
+  {
+    "name": "Plymouth",
+    "nationalityId": 49,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1357.png",
+    "stadium": {
+      "name": "Home Park",
+      "capacity": 19500
+    }
+  },
+  {
+    "name": "Lille",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/79.png",
+    "stadium": {
+      "name": "Decathlon Arena – Stade Pierre-Mauroy",
+      "capacity": 50083
+    }
+  },
+  {
+    "name": "Lyon",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/80.png",
+    "stadium": {
+      "name": "Groupama Stadium",
+      "capacity": 61556
+    }
+  },
+  {
+    "name": "Marseille",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/81.png",
+    "stadium": {
+      "name": "Stade Orange Vélodrome",
+      "capacity": 67394
+    }
+  },
+  {
+    "name": "Montpellier",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/82.png",
+    "stadium": {
+      "name": "Stade de la Mosson-Mondial 98",
+      "capacity": 32939
+    }
+  },
+  {
+    "name": "Nantes",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/83.png",
+    "stadium": {
+      "name": "Stade de la Beaujoire - Louis Fonteneau",
+      "capacity": 38285
+    }
+  },
+  {
+    "name": "Nice",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/84.png",
+    "stadium": {
+      "name": "Allianz Riviera",
+      "capacity": 35624
+    }
+  },
+  {
+    "name": "Paris Saint Germain",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/85.png",
+    "stadium": {
+      "name": "Parc des Princes",
+      "capacity": 47929
+    }
+  },
+  {
+    "name": "Monaco",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/91.png",
+    "stadium": {
+      "name": "Stade Louis II",
+      "capacity": 18523
+    }
+  },
+  {
+    "name": "Reims",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/93.png",
+    "stadium": {
+      "name": "Stade Auguste-Delaune II",
+      "capacity": 21684
+    }
+  },
+  {
+    "name": "Rennes",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/94.png",
+    "stadium": {
+      "name": "Roazhon Park",
+      "capacity": 31127
+    }
+  },
+  {
+    "name": "Strasbourg",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/95.png",
+    "stadium": {
+      "name": "Stade de la Meinau",
+      "capacity": 26109
+    }
+  },
+  {
+    "name": "Toulouse",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/96.png",
+    "stadium": {
+      "name": "Stadium de Toulouse",
+      "capacity": 33150
+    }
+  },
+  {
+    "name": "Lorient",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/97.png",
+    "stadium": {
+      "name": "Stade Yves Allainmat - Le Moustoir",
+      "capacity": 18970
+    }
+  },
+  {
+    "name": "Clermont Foot",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/99.png",
+    "stadium": {
+      "name": "Stade Gabriel Montpied",
+      "capacity": 13576
+    }
   },
   {
     "name": "Stade Brestois 29",
-    "nationalityId": 9,
-    "stadiumId": 42
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/106.png",
+    "stadium": {
+      "name": "Stade Francis-Le Blé",
+      "capacity": 15931
+    }
   },
   {
-    "name": "Olympique de Marseille",
-    "nationalityId": 9,
-    "stadiumId": 43
+    "name": "LE Havre",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/111.png",
+    "stadium": {
+      "name": "Stade Océane",
+      "capacity": 25178
+    }
   },
   {
-    "name": "Paris Saint-Germain",
-    "nationalityId": 9,
-    "stadiumId": 44
+    "name": "Metz",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/112.png",
+    "stadium": {
+      "name": "Stade Saint-Symphorien",
+      "capacity": 30000
+    }
   },
   {
-    "name": "Lille OSC",
-    "nationalityId": 9,
-    "stadiumId": 45
+    "name": "Lens",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/116.png",
+    "stadium": {
+      "name": "Stade Bollaert-Delelis",
+      "capacity": 41233
+    }
   },
   {
-    "name": "FC Metz",
-    "nationalityId": 9,
-    "stadiumId": 46
+    "name": "Angers",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/77.png",
+    "stadium": {
+      "name": "Stade Raymond-Kopa",
+      "capacity": 19000
+    }
   },
   {
-    "name": "Stade Rennais FC",
-    "nationalityId": 9,
-    "stadiumId": 47
+    "name": "Bordeaux",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/78.png",
+    "stadium": {
+      "name": "Stade Matmut-Atlantique",
+      "capacity": 42115
+    }
   },
   {
-    "name": "Stade de Reims",
-    "nationalityId": 9,
-    "stadiumId": 48
+    "name": "Amiens",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/87.png",
+    "stadium": {
+      "name": "Stade Crédit Agricole de la Licorne",
+      "capacity": 12999
+    }
   },
   {
-    "name": "RC Strasbourg Alsace",
-    "nationalityId": 9,
-    "stadiumId": 49
+    "name": "Caen",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/88.png",
+    "stadium": {
+      "name": "Stade Michel d'Ornano",
+      "capacity": 20453
+    }
   },
   {
-    "name": "Le Havre AC",
-    "nationalityId": 9,
-    "stadiumId": 50
+    "name": "Guingamp",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/90.png",
+    "stadium": {
+      "name": "Stade du Roudourou",
+      "capacity": 19003
+    }
   },
   {
-    "name": "FC Lorient",
-    "nationalityId": 9,
-    "stadiumId": 51
+    "name": "Ajaccio",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/98.png",
+    "stadium": {
+      "name": "Stade François Coty",
+      "capacity": 10660
+    }
   },
   {
-    "name": "Toulouse FC",
-    "nationalityId": 9,
-    "stadiumId": 52
+    "name": "Grenoble",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/101.png",
+    "stadium": {
+      "name": "Stade des Alpes",
+      "capacity": 20068
+    }
   },
   {
-    "name": "Montpellier HSC",
-    "nationalityId": 9,
-    "stadiumId": 53
+    "name": "Valenciennes",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/105.png",
+    "stadium": {
+      "name": "Stade du Hainaut",
+      "capacity": 24926
+    }
   },
   {
-    "name": "FC Nantes",
-    "nationalityId": 9,
-    "stadiumId": 54
+    "name": "Auxerre",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/108.png",
+    "stadium": {
+      "name": "Stade de l'Abbé Deschamps",
+      "capacity": 23467
+    }
   },
   {
-    "name": "Olympique Lyonnais",
-    "nationalityId": 9,
-    "stadiumId": 55
-  },
-  {
-    "name": "Clermont Foot 63",
-    "nationalityId": 9,
-    "stadiumId": 56
-  },
-  {
-    "name": "AC Ajaccio",
-    "nationalityId": 9,
-    "stadiumId": 57
-  },
-  {
-    "name": "Amiens SC",
-    "nationalityId": 9,
-    "stadiumId": 58
-  },
-  {
-    "name": "Annecy FC",
-    "nationalityId": 9,
-    "stadiumId": 59
-  },
-  {
-    "name": "Angers SCO",
-    "nationalityId": 9,
-    "stadiumId": 60
-  },
-  {
-    "name": "AJ Auxerre",
-    "nationalityId": 9,
-    "stadiumId": 61
-  },
-  {
-    "name": "SC Bastia",
-    "nationalityId": 9,
-    "stadiumId": 62
-  },
-  {
-    "name": "FC Girondins de Bordeaux",
-    "nationalityId": 9,
-    "stadiumId": 63
-  },
-  {
-    "name": "SM Caen",
-    "nationalityId": 9,
-    "stadiumId": 64
-  },
-  {
-    "name": "US Concarneau",
-    "nationalityId": 9,
-    "stadiumId": 65
-  },
-  {
-    "name": "USL Dunkerque",
-    "nationalityId": 9,
-    "stadiumId": 66
-  },
-  {
-    "name": "Grenoble Foot 38",
-    "nationalityId": 9,
-    "stadiumId": 67
-  },
-  {
-    "name": "EA Guingamp",
-    "nationalityId": 9,
-    "stadiumId": 68
-  },
-  {
-    "name": "Stade Lavallois MFC",
-    "nationalityId": 9,
-    "stadiumId": 69
+    "name": "Estac Troyes",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/110.png",
+    "stadium": {
+      "name": "Stade de l'Aube",
+      "capacity": 21877
+    }
   },
   {
     "name": "Paris FC",
-    "nationalityId": 9,
-    "stadiumId": 70
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/114.png",
+    "stadium": {
+      "name": "Stade Charléty",
+      "capacity": 20000
+    }
   },
   {
-    "name": "Pau FC",
-    "nationalityId": 9,
-    "stadiumId": 71
+    "name": "Quevilly",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/431.png",
+    "stadium": {
+      "name": "Stade Robert Diochon",
+      "capacity": 12018
+    }
   },
   {
-    "name": "Quevilly-Rouen Métropole FC",
-    "nationalityId": 9,
-    "stadiumId": 72
+    "name": "Laval",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/433.png",
+    "stadium": {
+      "name": "Stade Francis Le Basser",
+      "capacity": 18607
+    }
   },
   {
-    "name": "Rodez AF",
-    "nationalityId": 9,
-    "stadiumId": 73
+    "name": "Saint Etienne",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1063.png",
+    "stadium": {
+      "name": "Stade Geoffroy-Guichard",
+      "capacity": 41965
+    }
   },
   {
-    "name": "AS Saint-Étienne",
-    "nationalityId": 9,
-    "stadiumId": 74
+    "name": "PAU",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1297.png",
+    "stadium": {
+      "name": "Stade Nouste Camp",
+      "capacity": 4031
+    }
   },
   {
-    "name": "ES Troyes AC",
-    "nationalityId": 9,
-    "stadiumId": 75
+    "name": "Concarneau",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1300.png",
+    "stadium": {
+      "name": "Stade Francis-Le Blé",
+      "capacity": 15931
+    }
   },
   {
-    "name": "Valenciennes FC",
-    "nationalityId": 9,
-    "stadiumId": 76
+    "name": "Rodez",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1301.png",
+    "stadium": {
+      "name": "Stade Paul Lignon",
+      "capacity": 5996
+    }
   },
   {
-    "name": "FC Köln",
-    "nationalityId": 10,
-    "stadiumId": 77
+    "name": "Dunkerque",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1304.png",
+    "stadium": {
+      "name": "Stade Marcel-Tribut",
+      "capacity": 4933
+    }
   },
   {
-    "name": "FC Union Berlin",
-    "nationalityId": 10,
-    "stadiumId": 78
+    "name": "Bastia",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1305.png",
+    "stadium": {
+      "name": "Stade Armand-Césari",
+      "capacity": 17000
+    }
   },
   {
-    "name": "FSV Mainz 05",
-    "nationalityId": 10,
-    "stadiumId": 79
+    "name": "Annecy",
+    "nationalityId": 56,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/3012.png",
+    "stadium": {
+      "name": "Parc des Sports",
+      "capacity": 15660
+    }
   },
   {
-    "name": "Arminia Bielefeld",
-    "nationalityId": 10,
-    "stadiumId": 80
-  },
-  {
-    "name": "Bayer 04 Leverkusen",
-    "nationalityId": 10,
-    "stadiumId": 81
-  },
-  {
-    "name": "Borussia Dortmund",
-    "nationalityId": 10,
-    "stadiumId": 82
-  },
-  {
-    "name": "Borussia Mönchengladbach",
-    "nationalityId": 10,
-    "stadiumId": 83
-  },
-  {
-    "name": "Eintracht Frankfurt",
-    "nationalityId": 10,
-    "stadiumId": 84
-  },
-  {
-    "name": "FC Augsburg",
-    "nationalityId": 10,
-    "stadiumId": 85
-  },
-  {
-    "name": "FC Bayern München",
-    "nationalityId": 10,
-    "stadiumId": 86
-  },
-  {
-    "name": "FC Schalke 04",
-    "nationalityId": 10,
-    "stadiumId": 87
-  },
-  {
-    "name": "Hertha BSC Berlin",
-    "nationalityId": 10,
-    "stadiumId": 88
-  },
-  {
-    "name": "RB Leipzig",
-    "nationalityId": 10,
-    "stadiumId": 89
+    "name": "Bayern Munich",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/157.png",
+    "stadium": {
+      "name": "Allianz Arena",
+      "capacity": 75000
+    }
   },
   {
     "name": "SC Freiburg",
-    "nationalityId": 10,
-    "stadiumId": 90
-  },
-  {
-    "name": "SpVgg Greuther Fürth",
-    "nationalityId": 10,
-    "stadiumId": 91
-  },
-  {
-    "name": "SV Werder Bremen",
-    "nationalityId": 10,
-    "stadiumId": 92
-  },
-  {
-    "name": "TSG 1899 Hoffenheim",
-    "nationalityId": 10,
-    "stadiumId": 93
-  },
-  {
-    "name": "VfB Stuttgart",
-    "nationalityId": 10,
-    "stadiumId": 94
-  },
-  {
-    "name": "VfL Bochum 1848",
-    "nationalityId": 10,
-    "stadiumId": 95
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/160.png",
+    "stadium": {
+      "name": "Europa-Park Stadion",
+      "capacity": 34700
+    }
   },
   {
     "name": "VfL Wolfsburg",
-    "nationalityId": 10,
-    "stadiumId": 96
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/161.png",
+    "stadium": {
+      "name": "VOLKSWAGEN ARENA",
+      "capacity": 30000
+    }
   },
   {
-    "name": "FC Heidenheim 1846",
-    "nationalityId": 10,
-    "stadiumId": 97
+    "name": "Werder Bremen",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/162.png",
+    "stadium": {
+      "name": "wohninvest WESERSTADION",
+      "capacity": 42358
+    }
   },
   {
-    "name": "FC Kaiserslautern",
-    "nationalityId": 10,
-    "stadiumId": 98
+    "name": "Borussia Monchengladbach",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/163.png",
+    "stadium": {
+      "name": "Stadion im BORUSSIA-PARK",
+      "capacity": 54057
+    }
   },
   {
-    "name": "FC Magdeburg",
-    "nationalityId": 10,
-    "stadiumId": 99
+    "name": "FSV Mainz 05",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/164.png",
+    "stadium": {
+      "name": "MEWA ARENA",
+      "capacity": 34034
+    }
   },
   {
-    "name": "FC Nürnberg",
-    "nationalityId": 10,
-    "stadiumId": 100
+    "name": "Borussia Dortmund",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/165.png",
+    "stadium": {
+      "name": "SIGNAL IDUNA PARK",
+      "capacity": 81365
+    }
   },
   {
-    "name": "Darmstadt 98",
-    "nationalityId": 10,
-    "stadiumId": 101
+    "name": "1899 Hoffenheim",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/167.png",
+    "stadium": {
+      "name": "PreZero Arena",
+      "capacity": 30164
+    }
   },
   {
-    "name": "FC Hansa Rostock",
-    "nationalityId": 10,
-    "stadiumId": 102
+    "name": "Bayer Leverkusen",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/168.png",
+    "stadium": {
+      "name": "BayArena",
+      "capacity": 30210
+    }
   },
   {
-    "name": "FC Ingolstadt 04",
-    "nationalityId": 10,
-    "stadiumId": 103
+    "name": "Eintracht Frankfurt",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/169.png",
+    "stadium": {
+      "name": "Deutsche Bank Park",
+      "capacity": 58000
+    }
   },
   {
-    "name": "FC Schalke 04",
-    "nationalityId": 10,
-    "stadiumId": 104
+    "name": "FC Augsburg",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/170.png",
+    "stadium": {
+      "name": "WWK Arena",
+      "capacity": 30662
+    }
   },
   {
-    "name": "Fortuna Düsseldorf",
-    "nationalityId": 10,
-    "stadiumId": 105
+    "name": "VfB Stuttgart",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/172.png",
+    "stadium": {
+      "name": "MHP Arena",
+      "capacity": 60469
+    }
   },
   {
-    "name": "Greuther Fürth",
-    "nationalityId": 10,
-    "stadiumId": 106
+    "name": "RB Leipzig",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/173.png",
+    "stadium": {
+      "name": "Red Bull Arena",
+      "capacity": 47069
+    }
   },
   {
-    "name": "Hamburger SV",
-    "nationalityId": 10,
-    "stadiumId": 107
+    "name": "VfL BOCHUM",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/176.png",
+    "stadium": {
+      "name": "Vonovia Ruhrstadion",
+      "capacity": 30748
+    }
   },
   {
-    "name": "Hannover 96",
-    "nationalityId": 10,
-    "stadiumId": 108
-  },
-  {
-    "name": "Holstein Kiel",
-    "nationalityId": 10,
-    "stadiumId": 109
-  },
-  {
-    "name": "Karlsruher SC",
-    "nationalityId": 10,
-    "stadiumId": 110
-  },
-  {
-    "name": "SC Paderborn 07",
-    "nationalityId": 10,
-    "stadiumId": 111
+    "name": "FC Heidenheim",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/180.png",
+    "stadium": {
+      "name": "Voith-Arena",
+      "capacity": 15000
+    }
   },
   {
     "name": "SV Darmstadt 98",
-    "nationalityId": 10,
-    "stadiumId": 112
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/181.png",
+    "stadium": {
+      "name": "Merck-Stadion am Böllenfalltor",
+      "capacity": 17810
+    }
   },
   {
-    "name": "SV Sandhausen",
-    "nationalityId": 10,
-    "stadiumId": 113
+    "name": "Union Berlin",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/182.png",
+    "stadium": {
+      "name": "Stadion An der Alten Försterei",
+      "capacity": 22467
+    }
   },
   {
-    "name": "VfL Bochum 1848",
-    "nationalityId": 10,
-    "stadiumId": 114
+    "name": "FC Koln",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/192.png",
+    "stadium": {
+      "name": "RheinEnergieStadion",
+      "capacity": 50076
+    }
   },
   {
-    "name": "VfL Osnabrück",
-    "nationalityId": 10,
-    "stadiumId": 115
+    "name": "Fortuna Dusseldorf",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/158.png",
+    "stadium": {
+      "name": "Merkur Spiel-Arena",
+      "capacity": 54600
+    }
   },
   {
-    "name": "Wehen Wiesbaden",
-    "nationalityId": 10,
-    "stadiumId": 116
+    "name": "Hertha Berlin",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/159.png",
+    "stadium": {
+      "name": "Olympiastadion Berlin",
+      "capacity": 77116
+    }
   },
   {
-    "name": "Atalanta",
-    "nationalityId": 11,
-    "stadiumId": 117
+    "name": "Hannover 96",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/166.png",
+    "stadium": {
+      "name": "Heinz von Heiden-Arena",
+      "capacity": 49000
+    }
   },
   {
-    "name": "Bologna",
-    "nationalityId": 11,
-    "stadiumId": 118
+    "name": "FC Nurnberg",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/171.png",
+    "stadium": {
+      "name": "Max-Morlock-Stadion",
+      "capacity": 50000
+    }
   },
   {
-    "name": "Cagliari",
-    "nationalityId": 11,
-    "stadiumId": 119
+    "name": "FC Schalke 04",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/174.png",
+    "stadium": {
+      "name": "VELTINS-Arena",
+      "capacity": 62271
+    }
   },
   {
-    "name": "Empoli",
-    "nationalityId": 11,
-    "stadiumId": 120
+    "name": "Hamburger SV",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/175.png",
+    "stadium": {
+      "name": "Volksparkstadion",
+      "capacity": 57030
+    }
   },
   {
-    "name": "Fiorentina",
-    "nationalityId": 11,
-    "stadiumId": 121
+    "name": "SpVgg Greuther Furth",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/178.png",
+    "stadium": {
+      "name": "Sportpark Ronhof Thomas Sommer",
+      "capacity": 18000
+    }
   },
   {
-    "name": "Frosinone",
-    "nationalityId": 11,
-    "stadiumId": 122
+    "name": "FC Magdeburg",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/179.png",
+    "stadium": {
+      "name": "MDCC-Arena",
+      "capacity": 30000
+    }
   },
   {
-    "name": "Genoa",
-    "nationalityId": 11,
-    "stadiumId": 123
+    "name": "SC Paderborn 07",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/185.png",
+    "stadium": {
+      "name": "Home Deluxe Arena",
+      "capacity": 15306
+    }
   },
   {
-    "name": "Hellas Verona",
-    "nationalityId": 11,
-    "stadiumId": 124
+    "name": "FC St. Pauli",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/186.png",
+    "stadium": {
+      "name": "Millerntor-Stadion",
+      "capacity": 29546
+    }
   },
   {
-    "name": "Inter Milan",
-    "nationalityId": 11,
-    "stadiumId": 125
+    "name": "Holstein Kiel",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/191.png",
+    "stadium": {
+      "name": "Holstein-Stadion",
+      "capacity": 15034
+    }
   },
   {
-    "name": "Juventus",
-    "nationalityId": 11,
-    "stadiumId": 126
+    "name": "Eintracht Braunschweig",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/744.png",
+    "stadium": {
+      "name": "Eintracht-Stadion",
+      "capacity": 24474
+    }
+  },
+  {
+    "name": "FC Kaiserslautern",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/745.png",
+    "stadium": {
+      "name": "Fritz-Walter-Stadion",
+      "capacity": 49780
+    }
+  },
+  {
+    "name": "Karlsruher SC",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/785.png",
+    "stadium": {
+      "name": "BBBank Wildpark",
+      "capacity": 34302
+    }
+  },
+  {
+    "name": "SV Wehen",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1319.png",
+    "stadium": {
+      "name": "BRITA-Arena",
+      "capacity": 13144
+    }
+  },
+  {
+    "name": "Hansa Rostock",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1321.png",
+    "stadium": {
+      "name": "Ostseestadion",
+      "capacity": 29000
+    }
+  },
+  {
+    "name": "VfL Osnabruck",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1324.png",
+    "stadium": {
+      "name": "Bremer Brücke",
+      "capacity": 16667
+    }
+  },
+  {
+    "name": "SV Elversberg",
+    "nationalityId": 60,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1660.png",
+    "stadium": {
+      "name": "URSAPHARM-Arena an der Kaiserlinde",
+      "capacity": 10150
+    }
   },
   {
     "name": "Lazio",
-    "nationalityId": 11,
-    "stadiumId": 127
-  },
-  {
-    "name": "Lecce",
-    "nationalityId": 11,
-    "stadiumId": 128
-  },
-  {
-    "name": "AC Milan",
-    "nationalityId": 11,
-    "stadiumId": 125
-  },
-  {
-    "name": "Monza",
-    "nationalityId": 11,
-    "stadiumId": 129
-  },
-  {
-    "name": "Napoli",
-    "nationalityId": 11,
-    "stadiumId": 130
-  },
-  {
-    "name": "Roma",
-    "nationalityId": 11,
-    "stadiumId": 131
-  },
-  {
-    "name": "Salernitana",
-    "nationalityId": 11,
-    "stadiumId": 132
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/487.png",
+    "stadium": {
+      "name": "Stadio Olimpico",
+      "capacity": 68530
+    }
   },
   {
     "name": "Sassuolo",
-    "nationalityId": 11,
-    "stadiumId": 133
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/488.png",
+    "stadium": {
+      "name": "MAPEI Stadium - Città del Tricolore",
+      "capacity": 23717
+    }
   },
   {
-    "name": "Torino",
-    "nationalityId": 11,
-    "stadiumId": 134
+    "name": "AC Milan",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/489.png",
+    "stadium": {
+      "name": "Stadio Giuseppe Meazza",
+      "capacity": 80018
+    }
+  },
+  {
+    "name": "Cagliari",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/490.png",
+    "stadium": {
+      "name": "Unipol Domus",
+      "capacity": 16416
+    }
+  },
+  {
+    "name": "Napoli",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/492.png",
+    "stadium": {
+      "name": "Stadio Diego Armando Maradona",
+      "capacity": 60240
+    }
   },
   {
     "name": "Udinese",
-    "nationalityId": 11,
-    "stadiumId": 135
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/494.png",
+    "stadium": {
+      "name": "Udinese Arena",
+      "capacity": 25952
+    }
   },
   {
-    "name": "Ascoli",
-    "nationalityId": 11,
-    "stadiumId": 136
+    "name": "Genoa",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/495.png",
+    "stadium": {
+      "name": "Stadio Comunale Luigi Ferraris",
+      "capacity": 36703
+    }
   },
   {
-    "name": "Brescia",
-    "nationalityId": 11,
-    "stadiumId": 137
+    "name": "Juventus",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/496.png",
+    "stadium": {
+      "name": "Allianz Stadium",
+      "capacity": 45666
+    }
   },
   {
-    "name": "Cesena",
-    "nationalityId": 11,
-    "stadiumId": 138
+    "name": "AS Roma",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/497.png",
+    "stadium": {
+      "name": "Stadio Olimpico",
+      "capacity": 68530
+    }
   },
   {
-    "name": "Chievo Verona",
-    "nationalityId": 11,
-    "stadiumId": 139
+    "name": "Atalanta",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/499.png",
+    "stadium": {
+      "name": "Gewiss Stadium",
+      "capacity": 21300
+    }
   },
   {
-    "name": "Cittadella",
-    "nationalityId": 11,
-    "stadiumId": 140
+    "name": "Bologna",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/500.png",
+    "stadium": {
+      "name": "Stadio Renato Dall'Ara",
+      "capacity": 39279
+    }
   },
   {
-    "name": "Cosenza",
-    "nationalityId": 11,
-    "stadiumId": 141
+    "name": "Fiorentina",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/502.png",
+    "stadium": {
+      "name": "Stadio Artemio Franchi",
+      "capacity": 43147
+    }
   },
   {
-    "name": "Cremonese",
-    "nationalityId": 11,
-    "stadiumId": 142
+    "name": "Torino",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/503.png",
+    "stadium": {
+      "name": "Stadio Olimpico Grande Torino",
+      "capacity": 27958
+    }
+  },
+  {
+    "name": "Verona",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/504.png",
+    "stadium": {
+      "name": "Stadio Marc'Antonio Bentegodi",
+      "capacity": 39211
+    }
+  },
+  {
+    "name": "Inter",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/505.png",
+    "stadium": {
+      "name": "Stadio Giuseppe Meazza",
+      "capacity": 80018
+    }
   },
   {
     "name": "Empoli",
-    "nationalityId": 11,
-    "stadiumId": 143
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/511.png",
+    "stadium": {
+      "name": "Stadio Carlo Castellani – Computer Gross Arena",
+      "capacity": 16284
+    }
   },
   {
-    "name": "Foggia",
-    "nationalityId": 11,
-    "stadiumId": 144
-  },
-  {
-    "name": "Lecce",
-    "nationalityId": 11,
-    "stadiumId": 145
-  },
-  {
-    "name": "Monza",
-    "nationalityId": 11,
-    "stadiumId": 146
-  },
-  {
-    "name": "Novara",
-    "nationalityId": 11,
-    "stadiumId": 147
-  },
-  {
-    "name": "Perugia",
-    "nationalityId": 11,
-    "stadiumId": 148
-  },
-  {
-    "name": "Pescara",
-    "nationalityId": 11,
-    "stadiumId": 149
-  },
-  {
-    "name": "Pisa",
-    "nationalityId": 11,
-    "stadiumId": 150
-  },
-  {
-    "name": "Reggiana",
-    "nationalityId": 11,
-    "stadiumId": 151
+    "name": "Frosinone",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/512.png",
+    "stadium": {
+      "name": "Stadio Benito Stirpe",
+      "capacity": 16310
+    }
   },
   {
     "name": "Salernitana",
-    "nationalityId": 11,
-    "stadiumId": 152
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/514.png",
+    "stadium": {
+      "name": "Stadio Arechi",
+      "capacity": 37245
+    }
+  },
+  {
+    "name": "Lecce",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/867.png",
+    "stadium": {
+      "name": "Stadio Comunale Via del Mare",
+      "capacity": 33876
+    }
+  },
+  {
+    "name": "Monza",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1579.png",
+    "stadium": {
+      "name": "U-Power Stadium",
+      "capacity": 18568
+    }
   },
   {
     "name": "Sampdoria",
-    "nationalityId": 11,
-    "stadiumId": 153
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/498.png",
+    "stadium": {
+      "name": "Stadio Comunale Luigi Ferraris",
+      "capacity": 36703
+    }
+  },
+  {
+    "name": "Ascoli",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/507.png",
+    "stadium": {
+      "name": "Stadio Cino e Lillo Del Duca",
+      "capacity": 20853
+    }
+  },
+  {
+    "name": "Bari",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/508.png",
+    "stadium": {
+      "name": "Stadio Comunale San Nicola",
+      "capacity": 58270
+    }
+  },
+  {
+    "name": "Cittadella",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/510.png",
+    "stadium": {
+      "name": "Stadio Pier Cesare Tombolato",
+      "capacity": 7623
+    }
+  },
+  {
+    "name": "Spezia",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/515.png",
+    "stadium": {
+      "name": "Stadio Alberto Picco",
+      "capacity": 11767
+    }
   },
   {
     "name": "Ternana",
-    "nationalityId": 11,
-    "stadiumId": 154
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/516.png",
+    "stadium": {
+      "name": "Stadio Libero Liberati",
+      "capacity": 17460
+    }
   },
   {
-    "name": "Vicenza",
-    "nationalityId": 11,
-    "stadiumId": 155
+    "name": "Venezia",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/517.png",
+    "stadium": {
+      "name": "Stadio Pierluigi Penzo",
+      "capacity": 11150
+    }
   },
   {
-    "name": "Ajax",
-    "nationalityId": 14,
-    "stadiumId": 156
+    "name": "Brescia",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/518.png",
+    "stadium": {
+      "name": "Stadio Mario Rigamonti",
+      "capacity": 27547
+    }
   },
   {
-    "name": "PSV",
-    "nationalityId": 14,
-    "stadiumId": 157
+    "name": "Cremonese",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/520.png",
+    "stadium": {
+      "name": "Stadio Giovanni Zini",
+      "capacity": 20034
+    }
   },
   {
-    "name": "Feyenoord",
-    "nationalityId": 14,
-    "stadiumId": 158
+    "name": "Palermo",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/522.png",
+    "stadium": {
+      "name": "Stadio Renzo Barbera",
+      "capacity": 36349
+    }
   },
   {
-    "name": "AZ",
-    "nationalityId": 14,
-    "stadiumId": 159
+    "name": "Parma",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/523.png",
+    "stadium": {
+      "name": "Stadio Ennio Tardini",
+      "capacity": 21473
+    }
   },
   {
-    "name": "Vitesse",
-    "nationalityId": 14,
-    "stadiumId": 160
+    "name": "Pisa",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/801.png",
+    "stadium": {
+      "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+      "capacity": 17500
+    }
   },
   {
-    "name": "FC Utrecht",
-    "nationalityId": 14,
-    "stadiumId": 161
+    "name": "Reggiana",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/880.png",
+    "stadium": {
+      "name": "MAPEI Stadium - Città del Tricolore",
+      "capacity": 23717
+    }
   },
   {
-    "name": "Heracles Almelo",
-    "nationalityId": 14,
-    "stadiumId": 162
+    "name": "Feralpisalo",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/884.png",
+    "stadium": {
+      "name": "Stadio Leonardo Garilli",
+      "capacity": 21668
+    }
   },
   {
-    "name": "FC Twente",
-    "nationalityId": 14,
-    "stadiumId": 163
+    "name": "Como",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/895.png",
+    "stadium": {
+      "name": "Stadio Giuseppe Sinigaglia",
+      "capacity": 13602
+    }
+  },
+  {
+    "name": "Modena",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/899.png",
+    "stadium": {
+      "name": "Stadio Alberto Braglia",
+      "capacity": 21151
+    }
+  },
+  {
+    "name": "Sudtirol",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1578.png",
+    "stadium": {
+      "name": "Stadio Marco Druso",
+      "capacity": 5600
+    }
+  },
+  {
+    "name": "Catanzaro",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/1687.png",
+    "stadium": {
+      "name": "Stadio Nicola Ceravolo",
+      "capacity": 14650
+    }
+  },
+  {
+    "name": "Lecco",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/6379.png",
+    "stadium": {
+      "name": "Stadio Comunale Euganeo",
+      "capacity": 32420
+    }
+  },
+  {
+    "name": "Cosenza",
+    "nationalityId": 68,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/10137.png",
+    "stadium": {
+      "name": "Stadio San Vito-Luigi Marulla",
+      "capacity": 24209
+    }
   },
   {
     "name": "PEC Zwolle",
-    "nationalityId": 14,
-    "stadiumId": 164
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/193.png",
+    "stadium": {
+      "name": "MAC³PARK Stadion",
+      "capacity": 14000
+    }
   },
   {
-    "name": "Willem II",
-    "nationalityId": 14,
-    "stadiumId": 165
-  },
-  {
-    "name": "SC Heerenveen",
-    "nationalityId": 14,
-    "stadiumId": 166
-  },
-  {
-    "name": "Sparta Rotterdam",
-    "nationalityId": 14,
-    "stadiumId": 167
-  },
-  {
-    "name": "FC Groningen",
-    "nationalityId": 14,
-    "stadiumId": 168
-  },
-  {
-    "name": "ADO Den Haag",
-    "nationalityId": 14,
-    "stadiumId": 169
-  },
-  {
-    "name": "RKC Waalwijk",
-    "nationalityId": 14,
-    "stadiumId": 170
-  },
-  {
-    "name": "FC Emmen",
-    "nationalityId": 14,
-    "stadiumId": 171
-  },
-  {
-    "name": "Fortuna Sittard",
-    "nationalityId": 14,
-    "stadiumId": 172
-  },
-  {
-    "name": "NEC",
-    "nationalityId": 14,
-    "stadiumId": 173
-  },
-  {
-    "name": "Go Ahead Eagles",
-    "nationalityId": 14,
-    "stadiumId": 174
-  },
-  {
-    "name": "Cambuur",
-    "nationalityId": 14,
-    "stadiumId": 175
-  },
-  {
-    "name": "Almere City FC",
-    "nationalityId": 14,
-    "stadiumId": 176
-  },
-  {
-    "name": "Cambuur Leeuwarden",
-    "nationalityId": 14,
-    "stadiumId": 177
-  },
-  {
-    "name": "De Graafschap",
-    "nationalityId": 14,
-    "stadiumId": 178
-  },
-  {
-    "name": "Den Bosch",
-    "nationalityId": 14,
-    "stadiumId": 179
-  },
-  {
-    "name": "Dordrecht",
-    "nationalityId": 14,
-    "stadiumId": 180
-  },
-  {
-    "name": "Eindhoven",
-    "nationalityId": 14,
-    "stadiumId": 181
+    "name": "Ajax",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/194.png",
+    "stadium": {
+      "name": "Johan Cruijff Arena",
+      "capacity": 54990
+    }
   },
   {
     "name": "Excelsior",
-    "nationalityId": 14,
-    "stadiumId": 182
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/196.png",
+    "stadium": {
+      "name": "Van Donge & De Roo Stadion",
+      "capacity": 4500
+    }
   },
   {
-    "name": "FC Dordrecht",
-    "nationalityId": 14,
-    "stadiumId": 183
+    "name": "PSV Eindhoven",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/197.png",
+    "stadium": {
+      "name": "Philips Stadion",
+      "capacity": 36500
+    }
   },
   {
-    "name": "FC Eindhoven",
-    "nationalityId": 14,
-    "stadiumId": 184
+    "name": "Vitesse",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/200.png",
+    "stadium": {
+      "name": "GelreDome",
+      "capacity": 25500
+    }
   },
   {
-    "name": "FC Emmen",
-    "nationalityId": 14,
-    "stadiumId": 185
+    "name": "AZ Alkmaar",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/201.png",
+    "stadium": {
+      "name": "AFAS Stadion",
+      "capacity": 19500
+    }
   },
   {
-    "name": "FC Oss",
-    "nationalityId": 14,
-    "stadiumId": 186
+    "name": "Fortuna Sittard",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/205.png",
+    "stadium": {
+      "name": "Fortuna Sittard Stadion",
+      "capacity": 12500
+    }
+  },
+  {
+    "name": "Heracles",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/206.png",
+    "stadium": {
+      "name": "Erve Asito",
+      "capacity": 13500
+    }
+  },
+  {
+    "name": "Utrecht",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/207.png",
+    "stadium": {
+      "name": "Stadion Galgenwaard",
+      "capacity": 23750
+    }
+  },
+  {
+    "name": "Feyenoord",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/209.png",
+    "stadium": {
+      "name": "Stadion Feijenoord",
+      "capacity": 51117
+    }
+  },
+  {
+    "name": "Heerenveen",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/210.png",
+    "stadium": {
+      "name": "Abe Lenstra Stadion",
+      "capacity": 27224
+    }
+  },
+  {
+    "name": "GO Ahead Eagles",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/410.png",
+    "stadium": {
+      "name": "De Adelaarshorst",
+      "capacity": 10400
+    }
+  },
+  {
+    "name": "NEC Nijmegen",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/413.png",
+    "stadium": {
+      "name": "Goffertstadion",
+      "capacity": 12501
+    }
+  },
+  {
+    "name": "Twente",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/415.png",
+    "stadium": {
+      "name": "De Grolsch Veste",
+      "capacity": 30205
+    }
   },
   {
     "name": "FC Volendam",
-    "nationalityId": 14,
-    "stadiumId": 187
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/416.png",
+    "stadium": {
+      "name": "Kras Stadion",
+      "capacity": 6984
+    }
   },
   {
-    "name": "Go Ahead Eagles",
-    "nationalityId": 14,
-    "stadiumId": 188
+    "name": "Waalwijk",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/417.png",
+    "stadium": {
+      "name": "Mandemakers Stadion",
+      "capacity": 7508
+    }
   },
   {
-    "name": "Helmond Sport",
-    "nationalityId": 14,
-    "stadiumId": 189
+    "name": "Almere City FC",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/419.png",
+    "stadium": {
+      "name": "Yanmar Stadion",
+      "capacity": 4501
+    }
   },
   {
-    "name": "Jong Ajax",
-    "nationalityId": 14,
-    "stadiumId": 190
+    "name": "Sparta Rotterdam",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/426.png",
+    "stadium": {
+      "name": "Sparta-Stadion Het Kasteel",
+      "capacity": 11026
+    }
   },
   {
-    "name": "Jong AZ",
-    "nationalityId": 14,
-    "stadiumId": 191
+    "name": "Willem II",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/195.png",
+    "stadium": {
+      "name": "Koning Willem II Stadion",
+      "capacity": 14700
+    }
   },
   {
-    "name": "Jong FC Utrecht",
-    "nationalityId": 14,
-    "stadiumId": 192
+    "name": "ADO Den Haag",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/198.png",
+    "stadium": {
+      "name": "Bingoal Stadion",
+      "capacity": 15000
+    }
+  },
+  {
+    "name": "De Graafschap",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/199.png",
+    "stadium": {
+      "name": "Stadion De Vijverberg",
+      "capacity": 12600
+    }
+  },
+  {
+    "name": "Groningen",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/202.png",
+    "stadium": {
+      "name": "Euroborg",
+      "capacity": 22579
+    }
+  },
+  {
+    "name": "NAC Breda",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/203.png",
+    "stadium": {
+      "name": "Rat Verlegh Stadion",
+      "capacity": 19000
+    }
+  },
+  {
+    "name": "VVV Venlo",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/204.png",
+    "stadium": {
+      "name": "Covebo Stadion - De Koel -",
+      "capacity": 8000
+    }
+  },
+  {
+    "name": "Emmen",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/208.png",
+    "stadium": {
+      "name": "De Oude Meerdijk",
+      "capacity": 8600
+    }
+  },
+  {
+    "name": "Dordrecht",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/409.png",
+    "stadium": {
+      "name": "Matchoholic Stadion",
+      "capacity": 4235
+    }
   },
   {
     "name": "Jong PSV",
-    "nationalityId": 14,
-    "stadiumId": 193
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/411.png",
+    "stadium": {
+      "name": "PSV Campus De Herdgang",
+      "capacity": 4000
+    }
   },
   {
-    "name": "NEC",
-    "nationalityId": 14,
-    "stadiumId": 194
+    "name": "MVV",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/412.png",
+    "stadium": {
+      "name": "De Geusselt",
+      "capacity": 10000
+    }
   },
   {
-    "name": "Roda JC Kerkrade",
-    "nationalityId": 14,
-    "stadiumId": 195
+    "name": "Roda",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/414.png",
+    "stadium": {
+      "name": "Parkstad Limburg Stadion",
+      "capacity": 19979
+    }
+  },
+  {
+    "name": "Jong AZ",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/418.png",
+    "stadium": {
+      "name": "AFAS Trainingscomplex",
+      "capacity": 3000
+    }
+  },
+  {
+    "name": "Cambuur",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/420.png",
+    "stadium": {
+      "name": "Cambuur Stadion",
+      "capacity": 11230
+    }
+  },
+  {
+    "name": "Den Bosch",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/421.png",
+    "stadium": {
+      "name": "Stadion De Vliert",
+      "capacity": 9000
+    }
+  },
+  {
+    "name": "FC Eindhoven",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/422.png",
+    "stadium": {
+      "name": "Jan Louwers Stadion",
+      "capacity": 5400
+    }
+  },
+  {
+    "name": "FC OSS",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/423.png",
+    "stadium": {
+      "name": "Frans Heesen Stadion",
+      "capacity": 4700
+    }
+  },
+  {
+    "name": "Helmond Sport",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/424.png",
+    "stadium": {
+      "name": "GS Staalwerken Stadion",
+      "capacity": 4200
+    }
+  },
+  {
+    "name": "Jong Ajax",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/425.png",
+    "stadium": {
+      "name": "Sportpark De Toekomst",
+      "capacity": 5000
+    }
+  },
+  {
+    "name": "Telstar",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/427.png",
+    "stadium": {
+      "name": "711 Stadion",
+      "capacity": 5200
+    }
+  },
+  {
+    "name": "Jong Utrecht",
+    "nationalityId": 80,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/428.png",
+    "stadium": {
+      "name": "Sportcomplex Zoudenbalch",
+      "capacity": 1014
+    }
   }
 ]
