@@ -25,6 +25,7 @@
   <ItemGroup>
     <ProjectReference Include="..\LiveStats.Core.Football\LiveStats.Core.Football.csproj" />
     <ProjectReference Include="..\LiveStats.Core.Identity\LiveStats.Core.Identity.csproj" />
+    <ProjectReference Include="..\LiveStats.Core.Shared\LiveStats.Core.Shared.csproj" />
     <ProjectReference Include="..\LiveStats.Infrastructure\LiveStats.Infrastructure.csproj" />
   </ItemGroup>
 

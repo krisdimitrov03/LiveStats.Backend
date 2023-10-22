@@ -23,6 +23,7 @@ public class DatabaseContext : IdentityDbContext<ApplicationUser>
     public DbSet<Fb_PositionType> Fb_PositionTypes { get; set; }
     public DbSet<Fb_Stadium> Fb_Stadiums { get; set; }
     public DbSet<Fb_Team> Fb_Teams { get; set; }
+    public DbSet<Fb_UserMatch> Fb_UsersMatches { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

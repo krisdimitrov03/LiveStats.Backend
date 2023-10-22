@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveStats.API", "LiveStats.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveStats.Core.Identity", "LiveStats.Core.Identity\LiveStats.Core.Identity.csproj", "{BD43A8EF-3275-4960-BA78-F0E84CA7C3D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveStats.Infrastructure", "LiveStats.Infrastructure\LiveStats.Infrastructure.csproj", "{C08729A0-DCE1-44DF-A3AD-283B07013CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveStats.Infrastructure", "LiveStats.Infrastructure\LiveStats.Infrastructure.csproj", "{C08729A0-DCE1-44DF-A3AD-283B07013CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveStats.Core.Football", "LiveStats.Core.Football\LiveStats.Core.Football.csproj", "{449BE2CF-24F0-44DA-9EBE-1AB6E11E6EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveStats.Core.Football", "LiveStats.Core.Football\LiveStats.Core.Football.csproj", "{449BE2CF-24F0-44DA-9EBE-1AB6E11E6EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveStats.Tests", "LiveStats.Tests\LiveStats.Tests.csproj", "{B91EF9EE-F7FB-4705-A0D5-3C473130BD65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveStats.Tests", "LiveStats.Tests\LiveStats.Tests.csproj", "{B91EF9EE-F7FB-4705-A0D5-3C473130BD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveStats.Core.Shared", "LiveStats.Core.Shared\LiveStats.Core.Shared.csproj", "{B4471AA4-DE3D-4D19-B718-95F818B98361}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B91EF9EE-F7FB-4705-A0D5-3C473130BD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B91EF9EE-F7FB-4705-A0D5-3C473130BD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B91EF9EE-F7FB-4705-A0D5-3C473130BD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4471AA4-DE3D-4D19-B718-95F818B98361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4471AA4-DE3D-4D19-B718-95F818B98361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4471AA4-DE3D-4D19-B718-95F818B98361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4471AA4-DE3D-4D19-B718-95F818B98361}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

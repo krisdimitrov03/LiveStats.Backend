@@ -3,6 +3,8 @@ using LiveStats.Core.Football.Services;
 using LiveStats.Core.Identity.Contracts;
 using LiveStats.Core.Identity.Data.Settings;
 using LiveStats.Core.Identity.Services;
+using LiveStats.Core.Shared.Contracts;
+using LiveStats.Core.Shared.Services;
 using LiveStats.Infrastructure.Data;
 using LiveStats.Infrastructure.Data.Models.Identity;
 using LiveStats.Infrastructure.Data.Repositories;
@@ -21,6 +23,7 @@ namespace LiveStats.API.Extensions
             .AddScoped<IApplicationDbRepository, ApplicationDbRepository>()
             .AddScoped<IUserService, UserService>()
             .AddScoped<IJwtService, JwtService>()
+            .AddScoped<ISh_NationalityService, Sh_NationalityService>()
             .AddScoped<IFb_CompetitionService, Fb_CompetitionService>();
 
         public static IServiceCollection AddDatabase(this IServiceCollection services, IConfiguration configuration) =>
