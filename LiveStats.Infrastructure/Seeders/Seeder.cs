@@ -34,6 +34,7 @@ namespace LiveStats.Infrastructure.Seeders
                 AddData<Fb_Position>(context, SeedDataConstants.Football, SeedDataConstants.Fb_Constants.Positions);
                 AddData<Fb_Competition>(context, SeedDataConstants.Football, SeedDataConstants.Fb_Constants.Competitions);
                 AddData<Fb_Team>(context, SeedDataConstants.Football, SeedDataConstants.Fb_Constants.Teams);
+                AddData<Fb_CompetitionTeam>(context, SeedDataConstants.Football, SeedDataConstants.Fb_Constants.CompetitionsTeams);
             }
 
             return builder;

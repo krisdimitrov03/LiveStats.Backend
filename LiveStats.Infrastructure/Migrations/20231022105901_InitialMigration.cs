@@ -271,7 +271,8 @@ namespace LiveStats.Infrastructure.Migrations
                 name: "Fb_CompetitionsTeams",
                 columns: table => new
                 {
-                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     CompetitionId = table.Column<int>(type: "int", nullable: false),
                     TeamId = table.Column<int>(type: "int", nullable: false),
                     GamesPlayed = table.Column<int>(type: "int", nullable: false),
@@ -371,6 +372,31 @@ namespace LiveStats.Infrastructure.Migrations
                         column: x => x.NationalityId,
                         principalTable: "Sh_Nationalities",
                         principalColumn: "Id");
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Fb_UsersMatches",
+                columns: table => new
+                {
+                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    UserId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    MatchId = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Fb_UsersMatches", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Fb_UsersMatches_AspNetUsers_UserId",
+                        column: x => x.UserId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Fb_UsersMatches_Fb_Matches_MatchId",
+                        column: x => x.MatchId,
+                        principalTable: "Fb_Matches",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
@@ -476,6 +502,16 @@ namespace LiveStats.Infrastructure.Migrations
                 name: "IX_Fb_Teams_StadiumId",
                 table: "Fb_Teams",
                 column: "StadiumId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Fb_UsersMatches_MatchId",
+                table: "Fb_UsersMatches",
+                column: "MatchId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Fb_UsersMatches_UserId",
+                table: "Fb_UsersMatches",
+                column: "UserId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -499,28 +535,31 @@ namespace LiveStats.Infrastructure.Migrations
                 name: "Fb_CompetitionsTeams");
 
             migrationBuilder.DropTable(
-                name: "Fb_Matches");
+                name: "Fb_Players");
 
             migrationBuilder.DropTable(
-                name: "Fb_Players");
+                name: "Fb_UsersMatches");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");
 
             migrationBuilder.DropTable(
+                name: "Fb_Positions");
+
+            migrationBuilder.DropTable(
                 name: "AspNetUsers");
+
+            migrationBuilder.DropTable(
+                name: "Fb_Matches");
+
+            migrationBuilder.DropTable(
+                name: "Fb_PositionTypes");
 
             migrationBuilder.DropTable(
                 name: "Fb_Competitions");
 
             migrationBuilder.DropTable(
-                name: "Fb_Positions");
-
-            migrationBuilder.DropTable(
                 name: "Fb_Teams");
-
-            migrationBuilder.DropTable(
-                name: "Fb_PositionTypes");
 
             migrationBuilder.DropTable(
                 name: "Fb_Stadiums");

@@ -15,8 +15,8 @@ public class DatabaseContext : IdentityDbContext<ApplicationUser>
 
     public DbSet<Sh_Nationality> Sh_Nationalities { get; set; }
 
-    public DbSet<Fb_Competition> Fb_Competitions { get; set; }
     public DbSet<Fb_CompetitionTeam> Fb_CompetitionsTeams { get; set; }
+    public DbSet<Fb_Competition> Fb_Competitions { get; set; }
     public DbSet<Fb_Match> Fb_Matches { get; set; }
     public DbSet<Fb_Player> Fb_Players { get; set; }
     public DbSet<Fb_Position> Fb_Positions { get; set; }

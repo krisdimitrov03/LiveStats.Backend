@@ -33,6 +33,7 @@ namespace LiveStats.Infrastructure.Seeders
             public const string PositionTypes = "positionTypes.json";
             public const string Stadiums = "stadiums.json";
             public const string Teams = "teams.json";
+            public const string CompetitionsTeams = "competitionsTeams.json";
         }
     }
 }

@@ -9,17 +9,18 @@ namespace LiveStats.Core.Football.Managers
     public static class MatchGenerator
     {
         private static Random rand = new Random();
-        private static int[] countryIds = { 8, 9, 10, 11, 14 };
+        private static int[] countryIds = { 49, 56, 60, 68, 80, 94, 110 };
+        private static int[] scoreRange = { 0, 10 };
 
         public static IApplicationBuilder GenerateRandomMatches(this IApplicationBuilder builder, int count)
         {
             for (int i = 0; i < count; i++)
-                CreateRandomMatch(builder);
+                CreateRandomMatch(builder, rand.Next(0, 1) == 0 ? false : true);
 
             return builder;
         }
 
-        private static void CreateRandomMatch(IApplicationBuilder builder)
+        private static void CreateRandomMatch(IApplicationBuilder builder, bool live)
         {
             using (var serviceScope = builder.ApplicationServices.CreateScope())
             {
@@ -59,8 +60,12 @@ namespace LiveStats.Core.Football.Managers
                     HomeTeamId = homeTeamId,
                     AwayTeamId = awayTeamId,
                     CompetitionId = competitionId,
-                    
+                    HomeScore = rand.Next(scoreRange[0], scoreRange[1]),
+                    AwayScore = rand.Next(scoreRange[0], scoreRange[1]),
+                    Minutes = live == false ? 0 : rand.Next(2, 90),
                 };
+
+                result.InProgress = live;
 
                 result.StadiumId = context
                     .Set<Fb_Team>()

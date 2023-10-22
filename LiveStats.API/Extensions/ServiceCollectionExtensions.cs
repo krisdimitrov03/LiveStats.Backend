@@ -24,7 +24,8 @@ namespace LiveStats.API.Extensions
             .AddScoped<IUserService, UserService>()
             .AddScoped<IJwtService, JwtService>()
             .AddScoped<ISh_NationalityService, Sh_NationalityService>()
-            .AddScoped<IFb_CompetitionService, Fb_CompetitionService>();
+            .AddScoped<IFb_CompetitionService, Fb_CompetitionService>()
+            .AddScoped<IFb_MatchService, Fb_MatchService>();
 
         public static IServiceCollection AddDatabase(this IServiceCollection services, IConfiguration configuration) =>
             services.AddDbContext<DatabaseContext>(options =>

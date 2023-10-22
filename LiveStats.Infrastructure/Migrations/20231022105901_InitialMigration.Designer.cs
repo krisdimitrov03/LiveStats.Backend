@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LiveStats.Infrastructure.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20230926123056_InitialMigration")]
+    [Migration("20231022105901_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -51,8 +51,11 @@ namespace LiveStats.Infrastructure.Migrations
 
             modelBuilder.Entity("LiveStats.Infrastructure.Data.Models.Football.Fb_CompetitionTeam", b =>
                 {
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<int>("CompetitionId")
                         .HasColumnType("int");
@@ -256,6 +259,28 @@ namespace LiveStats.Infrastructure.Migrations
                     b.HasIndex("StadiumId");
 
                     b.ToTable("Fb_Teams");
+                });
+
+            modelBuilder.Entity("LiveStats.Infrastructure.Data.Models.Football.Fb_UserMatch", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("MatchId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MatchId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Fb_UsersMatches");
                 });
 
             modelBuilder.Entity("LiveStats.Infrastructure.Data.Models.Identity.ApplicationUser", b =>
@@ -608,6 +633,25 @@ namespace LiveStats.Infrastructure.Migrations
                     b.Navigation("Nationality");
 
                     b.Navigation("Stadium");
+                });
+
+            modelBuilder.Entity("LiveStats.Infrastructure.Data.Models.Football.Fb_UserMatch", b =>
+                {
+                    b.HasOne("LiveStats.Infrastructure.Data.Models.Football.Fb_Match", "Match")
+                        .WithMany()
+                        .HasForeignKey("MatchId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("LiveStats.Infrastructure.Data.Models.Identity.ApplicationUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Match");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

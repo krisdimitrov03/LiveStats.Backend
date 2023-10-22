@@ -11,7 +11,7 @@ namespace LiveStats.Infrastructure.Data.Models.Football
     public class Fb_CompetitionTeam
     {
         [Key]
-        public string Id { get; set; } = Guid.NewGuid().ToString();
+        public int Id { get; set; }
 
         [Required]
         public int CompetitionId { get; set; }

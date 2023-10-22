@@ -1762,5 +1762,707 @@
       "name": "Sportcomplex Zoudenbalch",
       "capacity": 1014
     }
+  },
+  {
+    "name": "Benfica",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/211.png",
+    "stadium": {
+      "name": "Estádio do Sport Lisboa e Benfica (da Luz)",
+      "capacity": 65647
+    }
+  },
+  {
+    "name": "FC Porto",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/212.png",
+    "stadium": {
+      "name": "Estádio Do Dragão",
+      "capacity": 50399
+    }
+  },
+  {
+    "name": "Moreirense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/215.png",
+    "stadium": {
+      "name": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "capacity": 13000
+    }
+  },
+  {
+    "name": "Portimonense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/216.png",
+    "stadium": {
+      "name": "Estádio Municipal de Portimão",
+      "capacity": 9544
+    }
+  },
+  {
+    "name": "SC Braga",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/217.png",
+    "stadium": {
+      "name": "Estádio Municipal de Braga",
+      "capacity": 30286
+    }
+  },
+  {
+    "name": "Boavista",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/222.png",
+    "stadium": {
+      "name": "Estádio do Bessa Século XXI",
+      "capacity": 28263
+    }
+  },
+  {
+    "name": "Chaves",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/223.png",
+    "stadium": {
+      "name": "Estádio Municipal Eng. Manuel Branco Teixeira",
+      "capacity": 12000
+    }
+  },
+  {
+    "name": "Guimaraes",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/224.png",
+    "stadium": {
+      "name": "Estádio Dom Afonso Henriques",
+      "capacity": 30165
+    }
+  },
+  {
+    "name": "Rio Ave",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/226.png",
+    "stadium": {
+      "name": "Estádio do Rio Ave Futebol Clube",
+      "capacity": 12815
+    }
+  },
+  {
+    "name": "Sporting CP",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/228.png",
+    "stadium": {
+      "name": "Estádio José Alvalade",
+      "capacity": 50466
+    }
+  },
+  {
+    "name": "Estoril",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/230.png",
+    "stadium": {
+      "name": "Estádio António Coimbra da Mota",
+      "capacity": 8015
+    }
+  },
+  {
+    "name": "Farense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/231.png",
+    "stadium": {
+      "name": "Estádio de São Lúis",
+      "capacity": 12000
+    }
+  },
+  {
+    "name": "Arouca",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/240.png",
+    "stadium": {
+      "name": "Estádio Municipal de Arouca",
+      "capacity": 7000
+    }
+  },
+  {
+    "name": "Famalicao",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/242.png",
+    "stadium": {
+      "name": "Estádio Municipal 22 de Junho",
+      "capacity": 8000
+    }
+  },
+  {
+    "name": "GIL Vicente",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/762.png",
+    "stadium": {
+      "name": "Estádio Cidade de Barcelos",
+      "capacity": 12046
+    }
+  },
+  {
+    "name": "Vizela",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/810.png",
+    "stadium": {
+      "name": "Estádio Do Vizela",
+      "capacity": 6565
+    }
+  },
+  {
+    "name": "Casa Pia",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/4716.png",
+    "stadium": {
+      "name": "Estádio Nacional",
+      "capacity": 38000
+    }
+  },
+  {
+    "name": "Estrela",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/15130.png",
+    "stadium": {
+      "name": "Estádio José Gomes",
+      "capacity": 9288
+    }
+  },
+  {
+    "name": "Feirense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/213.png",
+    "stadium": {
+      "name": "Estádio Marcolino de Castro",
+      "capacity": 5449
+    }
+  },
+  {
+    "name": "Maritimo",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/214.png",
+    "stadium": {
+      "name": "Estádio dos Barreiros",
+      "capacity": 10932
+    }
+  },
+  {
+    "name": "Tondela",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/218.png",
+    "stadium": {
+      "name": "Estádio João Cardoso",
+      "capacity": 7500
+    }
+  },
+  {
+    "name": "Nacional",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/225.png",
+    "stadium": {
+      "name": "Estádio da Madeira",
+      "capacity": 5200
+    }
+  },
+  {
+    "name": "Santa Clara",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/227.png",
+    "stadium": {
+      "name": "Estádio de São Miguel",
+      "capacity": 13277
+    }
+  },
+  {
+    "name": "Benfica B",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/229.png",
+    "stadium": {
+      "name": "Caixa Futebol Campus",
+      "capacity": 2720
+    }
+  },
+  {
+    "name": "Oliveirense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/233.png",
+    "stadium": {
+      "name": "Estádio Carlos Osório",
+      "capacity": 2670
+    }
+  },
+  {
+    "name": "Pacos Ferreira",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/234.png",
+    "stadium": {
+      "name": "Estádio da Capital do Móvel",
+      "capacity": 9146
+    }
+  },
+  {
+    "name": "Penafiel",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/235.png",
+    "stadium": {
+      "name": "Estádio Municipal 25 de Abril",
+      "capacity": 6500
+    }
+  },
+  {
+    "name": "Academico Viseu",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/238.png",
+    "stadium": {
+      "name": "Estádio Municipal do Fontelo",
+      "capacity": 14368
+    }
+  },
+  {
+    "name": "FC Porto B",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/243.png",
+    "stadium": {
+      "name": "Estádio Dr. Jorge Sampaio",
+      "capacity": 8500
+    }
+  },
+  {
+    "name": "Leixoes",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/244.png",
+    "stadium": {
+      "name": "Estádio do Mar",
+      "capacity": 9730
+    }
+  },
+  {
+    "name": "Mafra",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/245.png",
+    "stadium": {
+      "name": "Estádio Municipal de Mafra",
+      "capacity": 2900
+    }
+  },
+  {
+    "name": "União de Leiria",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/4662.png",
+    "stadium": {
+      "name": "Estádio Dr. Magalhães Pessoa",
+      "capacity": 23888
+    }
+  },
+  {
+    "name": "Torreense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/4799.png",
+    "stadium": {
+      "name": "Campo Manuel Marques",
+      "capacity": 12000
+    }
+  },
+  {
+    "name": "Vilaverdense",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/4814.png",
+    "stadium": {
+      "name": "Campo Cruz Do Reguengo",
+      "capacity": 5000
+    }
+  },
+  {
+    "name": "CF Os Belenenses",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/17692.png",
+    "stadium": {
+      "name": "Estádio do Restelo",
+      "capacity": 19856
+    }
+  },
+  {
+    "name": "AVS",
+    "nationalityId": 94,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/21595.png",
+    "stadium": {
+      "name": "Estádio Clube Desportivo das Aves",
+      "capacity": 8560
+    }
+  },
+  {
+    "name": "Barcelona",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/529.png",
+    "stadium": {
+      "name": "Estadi Olímpic Lluís Companys",
+      "capacity": 55926
+    }
+  },
+  {
+    "name": "Atletico Madrid",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/530.png",
+    "stadium": {
+      "name": "Estádio Cívitas Metropolitano",
+      "capacity": 70460
+    }
+  },
+  {
+    "name": "Athletic Club",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/531.png",
+    "stadium": {
+      "name": "San Mamés Barria",
+      "capacity": 53289
+    }
+  },
+  {
+    "name": "Valencia",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/532.png",
+    "stadium": {
+      "name": "Estadio de Mestalla",
+      "capacity": 55000
+    }
+  },
+  {
+    "name": "Villarreal",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/533.png",
+    "stadium": {
+      "name": "Estadio de la Cerámica",
+      "capacity": 24500
+    }
+  },
+  {
+    "name": "Las Palmas",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/534.png",
+    "stadium": {
+      "name": "Estadio de Gran Canaria",
+      "capacity": 32392
+    }
+  },
+  {
+    "name": "Sevilla",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/536.png",
+    "stadium": {
+      "name": "Estadio Ramón Sánchez Pizjuán",
+      "capacity": 48649
+    }
+  },
+  {
+    "name": "Celta Vigo",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/538.png",
+    "stadium": {
+      "name": "Abanca-Balaídos",
+      "capacity": 31800
+    }
+  },
+  {
+    "name": "Real Madrid",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/541.png",
+    "stadium": {
+      "name": "Estadio Santiago Bernabéu",
+      "capacity": 85454
+    }
+  },
+  {
+    "name": "Alaves",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/542.png",
+    "stadium": {
+      "name": "Estadio de Mendizorroza",
+      "capacity": 19840
+    }
+  },
+  {
+    "name": "Real Betis",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/543.png",
+    "stadium": {
+      "name": "Estadio Benito Villamarín",
+      "capacity": 60721
+    }
+  },
+  {
+    "name": "Getafe",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/546.png",
+    "stadium": {
+      "name": "Coliseum Alfonso Pérez",
+      "capacity": 17393
+    }
+  },
+  {
+    "name": "Girona",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/547.png",
+    "stadium": {
+      "name": "Estadi Municipal de Montilivi",
+      "capacity": 14500
+    }
+  },
+  {
+    "name": "Real Sociedad",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/548.png",
+    "stadium": {
+      "name": "Reale Arena",
+      "capacity": 39500
+    }
+  },
+  {
+    "name": "Granada CF",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/715.png",
+    "stadium": {
+      "name": "Estadio Nuevo Los Cármenes",
+      "capacity": 23156
+    }
+  },
+  {
+    "name": "Almeria",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/723.png",
+    "stadium": {
+      "name": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+      "capacity": 21350
+    }
+  },
+  {
+    "name": "Cadiz",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/724.png",
+    "stadium": {
+      "name": "Estadio Nuevo Mirandilla",
+      "capacity": 22000
+    }
+  },
+  {
+    "name": "Osasuna",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/727.png",
+    "stadium": {
+      "name": "Estadio El Sadar",
+      "capacity": 23576
+    }
+  },
+  {
+    "name": "Rayo Vallecano",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/728.png",
+    "stadium": {
+      "name": "Estadio de Vallecas",
+      "capacity": 15500
+    }
+  },
+  {
+    "name": "Mallorca",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/798.png",
+    "stadium": {
+      "name": "Estadi Mallorca Son Moix",
+      "capacity": 23142
+    }
+  },
+  {
+    "name": "Leganes",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/537.png",
+    "stadium": {
+      "name": "Estadio Municipal de Butarque",
+      "capacity": 12450
+    }
+  },
+  {
+    "name": "Levante",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/539.png",
+    "stadium": {
+      "name": "Estadio Ciudad de Valencia",
+      "capacity": 25534
+    }
+  },
+  {
+    "name": "Espanyol",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/540.png",
+    "stadium": {
+      "name": "RCDE Stadium",
+      "capacity": 40423
+    }
+  },
+  {
+    "name": "Eibar",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/545.png",
+    "stadium": {
+      "name": "Estadio Municipal de Ipurúa",
+      "capacity": 8050
+    }
+  },
+  {
+    "name": "Alcorcon",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/711.png",
+    "stadium": {
+      "name": "Estadio Santo Domingo",
+      "capacity": 7000
+    }
+  },
+  {
+    "name": "Oviedo",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/718.png",
+    "stadium": {
+      "name": "Estadio Nuevo Carlos Tartiere",
+      "capacity": 30500
+    }
+  },
+  {
+    "name": "Tenerife",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/719.png",
+    "stadium": {
+      "name": "Estadio Heliodoro Rodríguez Lopéz",
+      "capacity": 23660
+    }
+  },
+  {
+    "name": "Valladolid",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/720.png",
+    "stadium": {
+      "name": "Estadio Municipal José Zorrilla",
+      "capacity": 26512
+    }
+  },
+  {
+    "name": "Albacete",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/722.png",
+    "stadium": {
+      "name": "Estadio Carlos Belmonte",
+      "capacity": 17524
+    }
+  },
+  {
+    "name": "Huesca",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/726.png",
+    "stadium": {
+      "name": "Estadio El Alcoraz",
+      "capacity": 9128
+    }
+  },
+  {
+    "name": "Sporting Gijon",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/731.png",
+    "stadium": {
+      "name": "Estadio Municipal El Molinón",
+      "capacity": 29538
+    }
+  },
+  {
+    "name": "Zaragoza",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/732.png",
+    "stadium": {
+      "name": "Estadio de la Romareda",
+      "capacity": 34596
+    }
+  },
+  {
+    "name": "Elche",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/797.png",
+    "stadium": {
+      "name": "Estadio Manuel Martínez Valero",
+      "capacity": 36017
+    }
+  },
+  {
+    "name": "Mirandes",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/799.png",
+    "stadium": {
+      "name": "Estadio Municipal de Anduva",
+      "capacity": 6000
+    }
+  },
+  {
+    "name": "Racing Santander",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/4665.png",
+    "stadium": {
+      "name": "Campos de Sport de El Sardinero",
+      "capacity": 22271
+    }
+  },
+  {
+    "name": "FC Cartagena",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/5262.png",
+    "stadium": {
+      "name": "Estadio Municipal Cartagonova",
+      "capacity": 15105
+    }
+  },
+  {
+    "name": "FC Andorra",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/8157.png",
+    "stadium": {
+      "name": "Estadi Nacional",
+      "capacity": 3306
+    }
+  },
+  {
+    "name": "Amorebieta",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/9380.png",
+    "stadium": {
+      "name": "Campo Municipal de Urritxe",
+      "capacity": 3000
+    }
+  },
+  {
+    "name": "Racing Ferrol",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/9409.png",
+    "stadium": {
+      "name": "Estadio Municipal de A Malata",
+      "capacity": 12043
+    }
+  },
+  {
+    "name": "Burgos",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/9580.png",
+    "stadium": {
+      "name": "Estadio Municipal de El Plantío",
+      "capacity": 12200
+    }
+  },
+  {
+    "name": "Villarreal II",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/9595.png",
+    "stadium": {
+      "name": "Estadio de la Cerámica",
+      "capacity": 24500
+    }
+  },
+  {
+    "name": "Eldense",
+    "nationalityId": 110,
+    "imageUrl": "https://media-4.api-sports.io/football/teams/9692.png",
+    "stadium": {
+      "name": "Estadio Municipal Nuevo Pepico Amat",
+      "capacity": 5700
+    }
   }
 ]
