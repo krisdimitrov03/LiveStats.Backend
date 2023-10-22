@@ -1,0 +1,26 @@
+﻿[
+  //Admin
+  {
+    "Id": "f1a606ab-0c46-42cc-bc46-0767103e8d2e",
+    "FirstName": "Ivan",
+    "LastName": "Ivanov",
+    "ImageUrl": "https://rb.gy/fqc8x",
+    "UserName": "admin.user.23",
+    "NormalizedUserName": "ADMIN.USER.23",
+    "Email": "admin@gmail.com",
+    "NormalizedEmail": "ADMIN@GMAIL.COM",
+    "PasswordHash": "AQAAAAIAAYagAAAAEIQP7838bSRYEYmzL8eJbGcT0pvZZX3l9Re3SBSbsW34qN0JpQtUJKSfxf4kuv+cbg=="
+  },
+  //User
+  {
+    "Id": "922c5697-27e9-4fc8-9e3d-0412a88eb029",
+    "FirstName": "Petar",
+    "LastName": "Petrov",
+    "ImageUrl": "https://rb.gy/hirg7",
+    "UserName": "normal.user.34",
+    "NormalizedUserName": "NORMAL.USER.34",
+    "Email": "user@abv.bg",
+    "NormalizedEmail": "USER@ABV.BG",
+    "PasswordHash": "AQAAAAIAAYagAAAAEAGB69Rc/GsttUhtJ/Br2g+fFa7cF2GMCneFX9TGkraMQ0j4OJpcOn5LY+2zbio/3g=="
+  }
+]
