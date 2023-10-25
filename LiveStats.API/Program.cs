@@ -26,7 +26,7 @@ app.UseRouting()
     .UseAuthorization()
     .MapControllers()
     .SeedDatabase()
-    //.GenerateRandomMatches(20)
+    .GenerateRandomMatches(20)
     ;
 
 app.Run();
